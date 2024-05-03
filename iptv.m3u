@@ -6,6 +6,23 @@
 #KODIPROP:inputstream.adaptive.chooser_resolution_max=720p
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
+#EXTINF:-1 tvg-id="mnctv.id" tvg-logo="https://i.ibb.co/dG3cP14/IMG-20221207-234300.png" group-title="TV NASIONAL",MNCTV (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+https://rplus.iptvgo.workers.dev/hls/play.m3u8?id=2
+
+#EXTINF:-1 tvg-id="gtv.id" tvg-logo="https://i.ibb.co/K2xHhRC/IMG-20221207-234208.png" group-title="TV NASIONAL",GTV (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+https://rplus.iptvgo.workers.dev/hls/play.m3u8?id=3
+
+#EXTINF:-1 tvg-id="rcti.id" tvg-logo="https://i.ibb.co/GCY8VdF/IMG-20221207-234520.png" group-title="TV NASIONAL",RCTI (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+https://rplus.iptvgo.workers.dev/hls/play.m3u8?id=1
+
+#EXTINF:-1 tvg-id="inews.id" tvg-logo="https://i.ibb.co/Wvp5KrJ/IMG-20221207-234346.png" group-title="TV NASIONAL",INEWS (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+https://rplus.iptvgo.workers.dev/hls/play.m3u8?id=4
+
+
 ------ENTERTAINMENT------
 #EXTINF:-1 tvg-name="Just for laughs – Pluto TV" tvg-logo="https://i.imgur.com/VvEz0XX.png" group-title="VOD Italy",Just for laughs – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?
