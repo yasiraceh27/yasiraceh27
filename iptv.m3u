@@ -1,3 +1,7 @@
+------ENTERTAINMENT------
+#EXTINF:-1 tvg-name="Just for laughs – Pluto TV" tvg-logo="https://i.imgur.com/VvEz0XX.png" group-title="VOD Italy",Just for laughs – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?
+
 -----ARAB ISLAM-----
 #EXTINF:-1 tvg-name="Qatar Television" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-id="QatarTelevision.qa" group-title="Qatar",Qatar Television
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
