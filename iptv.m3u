@@ -1,0 +1,376 @@
+#EXTINF:-1 tvg-name="Qatar Television" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-id="QatarTelevision.qa" group-title="Qatar",Qatar Television
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 tvg-name="Qatar Television 2" tvg-logo="https://i.imgur.com/iWJxDUm.png" tvg-id="QatarTelevision2.qa" group-title="Qatar",Qatar Television 2
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 tvg-name="Al Rayyan" tvg-logo="https://i.imgur.com/Ts3RjTV.png" tvg-id="AlRayyanTV.qa" group-title="Qatar",Al Rayyan
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Al Rayyan Old TV" tvg-logo="https://i.imgur.com/4qB5iN0.png" tvg-id="AlRayyanOldTV.qa" group-title="Qatar",Al Rayyan Old TV
+https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" tvg-id="AlJazeeraMubasher.qa" group-title="Qatar",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
+---------SPORT----------
+
+#EXTINF:-1 tvg-logo="http://static.process-one.net/bootstrap/img/art/customers_mlb.png" group-title="SPORT LATIN", MLB NETWORK HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/12728.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/NBA.png" group-title="SPORT LATIN", NBA TV (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/12722.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/WWE-logo-5569E9F466-seeklogo.com.png" group-title="SPORT LATIN", WWE HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15877.m3u8
+
+#EXTINF:-1 tvg-logo="https://deltafonts.com/wp-content/uploads/Tennis-Channel-logo.png" group-title="SPORT LATIN", TENNIS CHANNEL (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15880.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/pacwash.png" group-title="SPORT LATIN", PAC-12 WASHINGTON HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15881.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/pacoregon.png" group-title="SPORT LATIN", PAC-12 OREGON HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15882.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/pacmountain.png" group-title="SPORT LATIN", PAC-12 MOUTAIN HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15883.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/pacnet.png" group-title="SPORT LATIN", PAC-12 NETWORK HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15884.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/pacla.png" group-title="SPORT LATIN", PAC-12 LOS ANGELES HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15885.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/pacbay.png" group-title="SPORT LATIN", PAC-12 BAY AREA HD  (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15886.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/pacarizona.png" group-title="SPORT LATIN", PAC-12 ARIZONA HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15887.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/758375159220805632/_Ykx56Hs_400x400.jpg" group-title="SPORT LATIN", OLYMPIC CHANNEL
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15888.m3u8
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112012/nhl_network_2012.png?itok=pKsy4ksY" group-title="SPORT LATIN", NHL NETWORK HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15889.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C560BAQGW2qsiAzfpQA/company-logo_200_200/0?e=2159024400&v=beta&t=MQr072rjWCuxYDoqrSk55EGeck1p8aU1RMovdwfp2Yk" group-title="SPORT LATIN", NBC SPORTS PHILLY HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15892.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/929758074012778496/hWSKZmVV_400x400.jpg" group-title="SPORT LATIN", NBC SPORTS NORTHWEST (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15893.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.robertfeder.com/wp-content/uploads/2019/08/NBC-Sports-Chicago.jpg" group-title="SPORT LATIN", NBC SPORTS CHICAGO HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15894.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/NBCSN.png" group-title="SPORT LATIN", NBC SPORTS CALIFORNIA HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15895.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/930117519729405963/5p6FvPDM_400x400.jpg" group-title="SPORT LATIN", NBC SPORTS BOSTON (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15896.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQEm2ZXROKTqeA/company-logo_200_200/0?e=2159024400&v=beta&t=iwx3K-XIKaKkU3oh7034ddmbdKApwWQl4ewocm0daVc" group-title="SPORT LATIN", NBC SPORTS BAY AREA HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15897.m3u8
+
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/58/35/5b/58355bda-9dae-1ffe-57e7-fc96f472ced2/AppIcon-0-1x_U007emarketing-0-0-85-220-0-6.png/246x0w.jpg" group-title="SPORT LATIN", NBC GOLF HD
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15898.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/njH/njH_large.png" group-title="SPORT LATIN", LONGHORN HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15899.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/channels/bally-sports-midwest/b25e9b9cb5-1618516374/bally-sports-midwest-banner-1536x864.png" group-title="SPORT LATIN", BALLY SPORTS MIDWEST
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15903.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.playmichigan.com/wp-content/uploads/2021/04/Bally-Sports-Detroit-Problems-Logo-380x200.jpg" group-title="SPORT LATIN", BALLY SPORTS DETROIT
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15904.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/channels/bally-sports-arizona/e6b7c46e69-1616530752/bally-sports-arizona-banner-1536x864-crop.png" group-title="SPORT LATIN", BALLY SPORTS ARIZONA
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15905.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/fs2.png" group-title="SPORT LATIN", FOX SPORTS 2 HD
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15906.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/fs1.png" group-title="SPORT LATIN", FOX SPORTS 1
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15907.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L._SY355_.png" group-title="SPORT LATIN", ESPN HD
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15976.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/3CPORYIt4yxLxjg-_wt75Z15qLjGp5L1oQfnIRs0AXLe1GR78CIq0FCWorByYH44K3p3Fyjj6c4ZJYp_01ECXTkc-nQiQHdU3FXqOJpsJxGpt5m7Y99gV74YwWJGeCM8gf90BFGx9JOX4HAlCKM1TnlTM_JtycZlF1L7wry8pF9p" group-title="SPORT LATIN", ESPN NEWS HD
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15975.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg" group-title="SPORT LATIN", ESPN 2 HD
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15974.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/895269310012297216/S6kYh_k1_400x400.jpg" group-title="SPORT LATIN", ESPN U HD
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15972.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ihustlaz.com/BACKGROUNDS/NETWORKS/241C1939C-9C36-7288-9A0EA107DADBA0B1.jpg" group-title="SPORT LATIN", ESPN DEPORTES HD
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15970.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/04/cbssports2.png" group-title="SPORT LATIN", CBS SPORTS HD
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15977.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_zXSSY4jwjcgR5120xwOaI53AvIZ60VrzYOapXrHp-yauEtxOtvjhPeO-2n1v04ec3s" group-title="SPORT LATIN", BIG TEN NETWORK HD
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15978.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZYZKKtv.png" group-title="SPORT LATIN", BT SPORT 1 (UK)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20821.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dM18qVs.png" group-title="SPORT LATIN", BT SPORTS 2 (UK)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20820.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iyQKvph.png" group-title="SPORT LATIN", BT SPORT 3 (UK)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20819.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/evnrpfa1vdk4/6xrBhwsKkMIbRxhw0n7lnd/6d8ab7df5548a392d19ff2ac52813a57/Sportsnet_One.jpg" group-title="SPORT LATIN", SPORTSNET ONE HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20995.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/snontario.png" group-title="SPORT LATIN", SPORTNET ONTARIO (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20996.m3u8
+
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/c7/43/25/c743259d-bb07-2ac2-49a6-550324af62ff/source/512x512bb.jpg" group-title="SPORT LATIN", SPORTSNET WORLD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20997.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/snpac.png" group-title="SPORT LATIN", SPORTSNET PACIFIC HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20998.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/snwest.png" group-title="SPORT LATIN", SPORTSNET WEST HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20999.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/sneast.png" group-title="SPORT LATIN", SPORTSNET EAST (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21000.m3u8
+
+#EXTINF:-1 tvg-logo="https://wightman.ca/content/resources/tv-channels/@channel/sportsnet360.png" group-title="SPORT LATIN", SPORTSNET 360 HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21001.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn1.png" group-title="SPORT LATIN", TSN 1 HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21006.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn2.png" group-title="SPORT LATIN", TSN 2 HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21005.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn3.png" group-title="SPORT LATIN", TSN 3 HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21004.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn4.png" group-title="SPORT LATIN", TSN 4 HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21003.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn5.png" group-title="SPORT LATIN", TSN 5 HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21002.m3u8
+
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1491.1436396789.png" group-title="SPORT LATIN", BT SPORT ESPN (UK)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/24304.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2eT7fKz.png" group-title="SPORT LATIN", MAV TV
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/25979.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN", BALLY SPORTS NEW ORLEANS
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/26801.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/channels/bally-sports-oklahoma/5fd6880c94-1616530160/bally-sports-oklahoma-banner-1536x864-crop.png" group-title="SPORT LATIN", BALLY SPORTS OKLAHOMA
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/26803.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_y2zx8_RoWtR6s1BrjRlsQl4R5j523UYEM6g=s900-c-k-c0xffffffff-no-rj-mo" group-title="SPORT LATIN", BALLY SPORTS INDIANA
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/26805.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.oregonlive.com/resizer/rgUuOmWmAVdea4Wn4LnAkfBw56c=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KW6XRII3XNHIVEFHNXCRTBUALA.jpg" group-title="SPORT LATIN", BALLY SPORTS WISCONSIN
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/26817.m3u8
+
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/f1/54/9c/f1549ce8-15f0-df16-928b-e09b1028545b/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/320x0w.jpg" group-title="SPORT LATIN", MOTOR TREND
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/26819.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/929940820106543104/lm8kP157_400x400.jpg" group-title="SPORT LATIN", NBC SPORTS WASHINGTON
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/26823.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-lv330Pv-oRg/Wz-eQ18nEpI/AAAAAAAAHpg/LAKUm_eHEmUeS9eY2JLXS-KwIax_WC4kwCLcBGAs/s1600/t%25C3%25A9l%25C3%25A9chargement.png" group-title="SPORT LATIN", SKY SPORTS ARENA
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20827.m3u8
+
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo-small.png" group-title="SPORT LATIN", SY SPORTS F1
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20828.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj7Nr5K088btemtILtO-Hap8JhvaeahcRGjjBtJrQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="SPORT LATIN", SY  SPORTS FOOTBALL
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20829.m3u8
+
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/5/5995.1507600470.png" group-title="SPORT LATIN", SY SPORTS MIX
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20830.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/SkySportsPremierLeague_201708" group-title="SPORT LATIN", SY SPORTS PREM LEAG
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20831.m3u8
+
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1110.1507600318.png" group-title="SPORT LATIN", SY SPORTS GOLF
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20833.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/DQRAoltWBfwOZLbMyr5lrrLWx9AFu-WJoX1g5AD56k4laXMDCJijbqACOl8_dg-NANZneVtIoZdDeN7UsfcxDb3RWo4484o-ILWeQK_bmsJmRR066QVU7hYfzH4fv2IJX7amcaQ-BkTt" group-title="SPORT LATIN", SY SPORTS MAIN EVENT
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20832.m3u8
+
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/20/04/192x192/skysports-sky-sports-cricket_4967063.jpg?20200411112851" group-title="SPORT LATIN", SY SPORTS CRICKET
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20834.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/SkySportsAction_201708" group-title="SPORT LATIN", SY SPORTS ACTION
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/20835.m3u8
+
+#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.43974.14452996802155313.dc984f77-f6ce-4f15-92d3-11bf5c4cc693.ce683cbb-e6c2-421d-8279-87165f830779?mode=scale&q=90&h=200&w=200&background=%230078D7" group-title="SPORT LATIN", FIGHT NETWORK (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21426.m3u8
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042011/sec_espn.png?itok=BD_q_-c7" group-title="SPORT LATIN", SEC NETWORK HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/12710.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1078693792142766080/tyr2o44L_400x400.jpg" group-title="SPORT LATIN", ACC NETWORK
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/26696.m3u8
+
+#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="SPORT LATIN", TUDN HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/25338.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/yes-network-is-now-officially-owned-by-amazon-sinclair-and-yankees/378f77bdc6-1604430042/2018-12-28-at-8-42-am-2-768x432.png" group-title="SPORT LATIN", YES NETWORK
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/22643.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/channels/bally-sports-north/1ad90d9a07-1616525593/bally-sports-north-banner-1536x864-crop.png" group-title="SPORT LATIN", BALLY SPORTS NORTH
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/25331.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/channels/bally-sports-south/da8ef9d220-1618516374/bally-sports-south-banner-1536x864.png" group-title="SPORT LATIN", BALLY SPORTS SOUTH
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/25334.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/channels/bally-sports-ohio/1817c09d51-1618516374/bally-sports-ohio-banner-1536x864.png" group-title="SPORT LATIN", BALLY SPORTS OHIO
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/25332.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nba.com/hawks/sites/hawks/files/styles/story_main_photo/public/pi-fox-sports-southeast-082315.vresize.1200.675.high_.63.jpg?itok=kWdNaG9m" group-title="SPORT LATIN", BALLY SPORTS SOUTHEAST
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/25335.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/channels/bally-sports-southwest/7da393acf8-1616526035/bally-sports-southwest-banner-1536x864-crop.png" group-title="SPORT LATIN", FOX SPORTS SOUTHWEST
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/25336.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/channels/bally-sports-san-diego/c3e72c47ec-1616529174/bally-sports-san-diego-banner-1536x864-crop.png" group-title="SPORT LATIN", BALLY SPORTS SAN DIEGO
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/25333.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/channels/bally-sports-florida/8a72766037-1616530814/bally-sports-florida-banner-1536x864-crop.png" group-title="SPORT LATIN", BALLY SPORTS FLORIDA
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/26913.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/channels/bally-sports-sun/dd7a419bf6-1616526889/bally-sports-sun-banner-1536x864-crop.png" group-title="SPORT LATIN", BALLY SPORTS SUN
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/26912.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/NESN_1984.svg/revision/latest/scale-to-width-down/340?cb=20191005004949" group-title="SPORT LATIN", NESN
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/25343.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/snla.png" group-title="SPORT LATIN", SPORTSNET LA LAKERS
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/22626.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0008/3897/brand.gif?itok=9Fo-r9Hd" group-title="SPORT LATIN", MSG (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/22632.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn6.f-cdn.com/contestentries/1436144/30636289/5bcf4c34206bd_thumb900.jpg" group-title="SPORT LATIN", SY SPORTS NEWS (UK)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/24302.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_eHz1UfFWLK7ZJ_HfYIvAn8x46IUHI2Po-tA=s900-c-k-c0xffffffff-no-rj-mo" group-title="SPORT LATIN", FLOW SPORTS 1 (Caribbean)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28139.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/weplay.co/wp-content/uploads/2018/11/Premier-Sports.png?fit=960%2C960&ssl=1" group-title="SPORT LATIN", PREMIER SPORTS 1
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/25803.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/weplay.co/wp-content/uploads/2018/11/Premier-Sports.png?fit=960%2C960&ssl=1" group-title="SPORT LATIN", PREMIER SPORTS 2
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/25804.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ESP/ESP_290x170.png" group-title="SPORT LATIN", ESPN  (AU)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28393.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ES2/ES2_290x170.png" group-title="SPORT LATIN", ESPN2 (AU)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28398.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SP2/SP2_290x170.png" group-title="SPORT LATIN", FOX SPORTS 502 (AU)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28400.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSS/FSS_290x170.png" group-title="SPORT LATIN", FOX SPORTS 507 (AU)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28401.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/FSP_290x170.png" group-title="SPORT LATIN", FOX SPORTS 506 (AU)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28402.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/FSP_290x170.png" group-title="SPORT LATIN", FOX SPORTS 505 (AU)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28403.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FAF/FAF_290x170.png" group-title="SPORT LATIN", FOX SPORTS 504 (AU)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28404.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS3/FS3_290x170.png" group-title="SPORT LATIN", FOX SPORTS 503 (AU)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28405.m3u8
+
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/5767bd2120099e297415297a/t/5cdaa9b724a694cb4996e3f2/1557834178044/Sky+Sports+Racing+Logo+Square.png?format=1500w" group-title="SPORT LATIN", SY SPORTS RACES (UK)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/24303.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.marqueesportsnetwork.com/wp-content/uploads/2020/02/1280x720-Basic-Image.png" group-title="SPORT LATIN", MARQUEE SPORTS NET (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/55637.m3u8
+
+#EXTINF:-1 tvg-logo="https://zixi.com/wp-content/uploads/2019/02/033e2f_81a20d9d41e642f6beed7876645def9dmv2.png" group-title="SPORT LATIN", GINX (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/67098.m3u8
+
+#EXTINF:-1 tvg-logo="https://hd-report.com/wp-content/uploads/2013/04/mlb-strike-zone-logo-big.jpg" group-title="SPORT LATIN", MLB STRIKE ZONE
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/26513.m3u8
+
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/channels/bally-sports-west/d8e5d9132e-1633461648/bally-sports-west-banner-1536x864.png" group-title="SPORT LATIN", BALLY SPORTS WEST (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/931168.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pugetsound.media/wp-content/uploads/2017/01/Q13-Logo.png" group-title="SPORT LATIN", FOX 13 SEATTLE
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/27042.m3u8
+
+#EXTINF:-1 tvg-logo="http://caribrootstv.com/tvjsports.png" group-title="SPORT LATIN", CAR: TVJ SPORTS (Jamaica)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/23287.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.haitilibre.com/images-a/g-28640.jpg" group-title="SPORT LATIN", CAR: SPORTSMAX
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/23236.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg" group-title="SPORT LATIN", ESPN 2 (MX)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/27996.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_espn-3_m.png" group-title="SPORT LATIN", ESPN 3 (AR)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/27997.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_espn-3_m.png" group-title="SPORT LATIN", ESPN 3 (MX)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/27998.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/895269310012297216/S6kYh_k1_400x400.jpg" group-title="SPORT LATIN", ESPN U (MX)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/27999.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L._SY355_.png" group-title="SPORT LATIN", ESPN (MX)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28000.m3u8
+
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/58/db/bc/58dbbc42-2d68-2d97-392a-0cf23dc80f6f/AppIcons-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.jpg" group-title="SPORT LATIN", FOX SPORTS (MX)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28008.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8.postimg.cc/n9w1yo36d/1516307934_b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="SPORT LATIN", FOX SPORTS 2 (MX)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28009.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.justco.cc/guide/logos/mx/FoxSports3.mx.png" group-title="SPORT LATIN", FOX SPORTS 3 (MX)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28010.m3u8
+
+#EXTINF:-1 tvg-logo="http://200.77.160.48:8090/izzi/v4/img/dummy-img/channels/FoxSport2.png" group-title="SPORT LATIN", FOX SPORTS 2 (AR)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28143.m3u8
+
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/bf/6f/b6/bf6fb694-b720-63a7-ae0f-a5def8f99889/AppIcons-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.jpg" group-title="SPORT LATIN", FOX SPORTS (AR)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28146.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN", FOX SPORTS PREMIUM (AR)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28148.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600008048283/ZE6M2DPoulefnxqxignhPd7-wo1BQcQpOKISwdnDnk6V34hEtJV-qfeZ0CWrPyN4NBI=s300?v=1" group-title="SPORT LATIN", TNT SPORTS (AR)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28155.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="SPORT LATIN", FOX SPORTS 3 (AR)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28158.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8.postimg.cc/qthzouo05/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.jpg" group-title="SPORT LATIN", SPORTV HD (BR)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28187.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8.postimg.cc/j0rbww56d/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.jpg" group-title="SPORT LATIN", SPORTV 3 HD (BR)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28188.m3u8
+
+#EXTINF:-1 tvg-logo="https://s8.postimg.cc/7oeqf3h1x/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg" group-title="SPORT LATIN", SPORTV 2 HD (BR)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28189.m3u8
+
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/58/db/bc/58dbbc42-2d68-2d97-392a-0cf23dc80f6f/AppIcons-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.jpg" group-title="SPORT LATIN", FOX SPORTS HD (BR)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/28231.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/WWE-logo-5569E9F466-seeklogo.com.png" group-title="SPORT LATIN", WWE HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15877.m3u8
+
+#EXTINF:-1 tvg-logo="https://deltafonts.com/wp-content/uploads/Tennis-Channel-logo.png" group-title="SPORT LATIN", TENNIS CHANNEL (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15880.m3u8
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/pacwash.png" group-title="SPORT LATIN", PAC-12 WASHINGTON HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15881.m3u8
+
