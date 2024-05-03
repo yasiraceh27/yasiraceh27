@@ -402,3 +402,33 @@ https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15880.m3u8
 #EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/pacwash.png" group-title="SPORT LATIN", PAC-12 WASHINGTON HD (US)
 https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/15881.m3u8
 
+#EXTINF:-1 tvg-id="6504" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6504.png" group-title="sports rusia",TNT SPORTS 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19051/index.m3u8
+#EXTINF:-1 tvg-id="6505" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6505.png" group-title="sports rusia",TNT SPORTS 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19052/index.m3u8
+#EXTINF:-1 tvg-id="6506" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6506.png" group-title="sports rusia",TNT SPORTS 3 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19053/index.m3u8
+#EXTINF:-1 tvg-id="6507" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6507.png" group-title="sports rusia",TNT SPORTS 4 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19054/index.m3u8
+#EXTINF:-1 tvg-id="6508" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6508.png" group-title="sports rusia",TNT SPORTS 6 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19055/index.m3u8
+#EXTINF:-1 tvg-id="6509" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6509.png" group-title="sports rusia",ESPN HD BR
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19061/index.m3u8
+#EXTINF:-1 tvg-id="6511" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6511.png" group-title="sports rusia",ESPN2 HD BR
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19058/index.m3u8
+#EXTINF:-1 tvg-id="6510" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6510.png" group-title="sports rusia",ESPN EXTRA HD BR
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19057/index.m3u8
+#EXTINF:-1 tvg-id="6513" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6513.png" group-title="sports rusia",ESPN BRASIL HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19059/index.m3u8
+#EXTINF:-1 tvg-id="6513" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6513.png" group-title="sports rusia",ESPN Brasil
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19060/index.m3u8
+#EXTINF:-1 tvg-id="3880" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/3880.png" group-title="sports rusia",beIN Sports Max 1 FullHD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19062/index.m3u8
+#EXTINF:-1 tvg-id="6519" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6519.png" group-title="sports rusia",beIN Sports Max 2 FullHD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19063/index.m3u8
+#EXTINF:-1 tvg-id="2618" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/2618.png" group-title="sports rusia",beIN Sports Haber HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19064/index.m3u8
+#EXTINF:-1 tvg-id="3880" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/3880.png" group-title="sports rusia",beIN Sports Max 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19065/index.m3u8
+#EXTINF:-1 tvg-id="6519" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6519.png" group-title="sports rusia",beIN Sports Max 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19066/index.m3u8
