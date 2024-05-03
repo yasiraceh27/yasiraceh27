@@ -22,6 +22,88 @@ https://rplus.iptvgo.workers.dev/hls/play.m3u8?id=1
 #EXTVLCOPT:http-user-agent=android-R+
 https://rplus.iptvgo.workers.dev/hls/play.m3u8?id=4
 
+#EXTINF:-1 group-title="TV Nasional",TVRI HD
+http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+#EXTINF:-1 group-title="TV Nasional",TVRI SPORT HD
+http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
+#EXTINF:-1 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://i.postimg.cc/2y4WwVhW/tvon.png" group-title="TV Nasional",TVONE
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:-1 group-title="TV Nasional",TV ONE SD
+http://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
+#EXTINF:-1 group-title="TV Nasional",TV ONE HD
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+#EXTINF:-1 group-title="TV Nasional",KOMPAS TV SD
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+#EXTINF:-1 group-title="TV Nasional",KOMPAS TV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+#EXTINF:-1 group-title="TV Nasional",METRO TV SD
+http://op-group1-swiftservehd-1.dens.tv/h/h211/01.m3u8
+#EXTINF:-1 group-title="TV Nasional",METRO TV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+#EXTINF:-1 tvg-id="cnnindonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="TV Nasional",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="TV Nasional",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h7RKQpQ.png" group-title="TV Nasional",CNBC Indonesia HD
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3XG1FXh/20230518-221343.png" group-title="TV Nasional" ,Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="magnachannel.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/magna_channel.png" group-title="TV Nasional",Magna TV HD
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV Nasional",INDOSIAR SD
+http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
+#EXTINF:-1 group-title="TV Nasional",INDOSIAR HD
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1 group-title="TV Nasional",SCTV SD
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+#EXTINF:-1 group-title="TV Nasional",SCTV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV Nasional",Trans TV (720p)
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV Nasional",Trans7 (720p)
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.org
+#EXTINF:-1 group-title="TV Nasional",ANTV SD
+http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
+#EXTINF:-1 group-title="TV Nasional",ANTV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1 group-title="TV Nasional",NET TV SD
+http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+#EXTINF:-1 group-title="TV Nasional",NET TV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:-1 group-title="TV Nasional",RODJA TV SD
+http://op-group1-swiftservehd-1.dens.tv/h/h233/01.m3u8
+#EXTINF:-1 group-title="TV Nasional",RODJA TV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bH4sFzG.png" tvg-id="beritasatuworld.id" group-title="TV Nasional",IDTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 tvg-id="beritasatu.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/btv_beritasatu.png" group-title="TV Nasional",Berita Satu (BTV) HD
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="tvku.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvku.png" group-title="TV Nasional",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 group-title="TV Nasional",DENS LIVE STYLE SD
+http://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8
+#EXTINF:-1 group-title="TV Nasional",DENS LIVE STYLE HD
+http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+#EXTINF:-1 group-title="TV Nasional",DENS PLAY SD
+http://op-group1-swiftservehd-1.dens.tv/h/h225/01.m3u8
+#EXTINF:-1 group-title="TV Nasional",DENS PLAY HD
+http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
+#EXTINF:-1 group-title="TV Nasional",DENS PLAY SD
+http://op-group1-swiftservehd-1.dens.tv/h/h246/01.m3u8
+#EXTINF:-1 group-title="TV Nasional",DENS PLAY HD
+http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
+#EXTINF:-1 group-title="TV Nasional",DENS KNOWLEDGE SD
+http://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
+#EXTINF:-1 group-title="TV Nasional",DENS KNOWLEDGE HD
+http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+#EXTINF:-1 group-title="TV Nasional",DENS SNOWBIZ SD
+http://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
+#EXTINF:-1 group-title="TV Nasional",DENS SNOWBIZ HD
+http://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
+
 
 ------ENTERTAINMENT------
 #EXTINF:-1 tvg-name="Just for laughs – Pluto TV" tvg-logo="https://i.imgur.com/VvEz0XX.png" group-title="VOD Italy",Just for laughs – Pluto TV
