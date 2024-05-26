@@ -74,8 +74,17 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 http://103.30.1.14:8080/hls/live.m3u8
 
 
-------ENTERTAINMENT------
+------KIDS------
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nBhpYXM/IndiKids.jpg" group-title="KIDS", FUN PLANET
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4prY0Hw/Lego.jpg" group-title="KIDS",Lego Channel 
+https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId=2&feedId=1120-v56&auth-token=1213111&version=sv7.0&deviceId=SDF543&deviceFwVer=4.99&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+https://i.mjh.nz/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lty2VTw/moonbug-kids-logo.jpg" group-title="KIDS", MOONBUG KIDS
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 -----ARAB ISLAM-----
 #EXTINF:-1 tvg-name="Qatar Television" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-id="QatarTelevision.qa" group-title="Qatar",Qatar Television
@@ -130,6 +139,11 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158834
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158835
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx",FOX Sports Premium Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158836
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="Channel Premium",SpoTV
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298570
+#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="Channel Premium",SpoTV 2
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298571
 
 ---------MALAYSIA BELUM RAPIKAN-----
 #EXTM3U
