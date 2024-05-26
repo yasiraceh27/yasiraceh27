@@ -114,6 +114,9 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m
 #EXTINF:-1 tvg-name="Dubai Racing 3" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png" tvg-id="DubaiRacing3.ae" group-title="United Arab Emirates",Dubai Racing 3
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 
+#EXTINF:-1 ,FIFA PLUS
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+
 #EXTINF:-1 tvg-id="FoxSports2.mx",FOX Sports 2 Mexico
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158834
 #EXTINF:-1 tvg-id="FoxSports3.mx",FOX Sports 3 Mexico
