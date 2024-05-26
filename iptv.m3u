@@ -113,3 +113,305 @@ https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Dubai Racing 3" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png" tvg-id="DubaiRacing3.ae" group-title="United Arab Emirates",Dubai Racing 3
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+
+
+---------MALAYSIA BELUM RAPIKAN-----
+#EXTM3U
+#EXTINF:39,CCTV+ 1 (600p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:40,CCTV+ 2 (600p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:60,CCTV-1#EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:60,CCTV-2#EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:54,CCTV-4N
+#EXTVLCOPT:network-caching=1000
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:60,CCTV-5+#EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:60,CCTV-5#EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:60,CCTV-8#EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:60,CCTV-9#EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:60,CCTV-13#EXTVLCOPT:network-caching=1000
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:32,8TV (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
+#EXTINF:60,ABN China (720p)
+#EXTVLCOPT:network-caching=1000
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+#EXTINF:60,Beautiful Life TV
+#EXTVLCOPT:network-caching=1000
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:12,CCTV4K
+#EXTVLCOPT:network-caching=1000
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
+#EXTINF:41,CCTV+ 1 (600p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:40,CCTV+ 2 (600p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:55,CCTV-4N
+#EXTVLCOPT:network-caching=1000
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:60,Celestial Movies (Indonesian Subtitle) (576p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:9,DaAi1 (#EXTVLCOPT:network-caching=1000
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:9,DaAi2 (#EXTVLCOPT:network-caching=1000
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:8,DAAI TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
+#EXTINF:9,Dragon TV International (360p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/x6bnqe/s/s29/index.m3u8
+#EXTINF:30,Global News (1080p)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:32,GOOD TV CH1 #EXTVLCOPT:network-caching=1000
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:32,GOOD TV CH2 #EXTVLCOPT:network-caching=1000
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:60,Kix (Indonesian Subtitle) (576p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+#EXTINF:29,Liangshan TV [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://118.122.2.29:9999/hls/47/index.m3u8
+#EXTINF:120,Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)
+#EXTVLCOPT:network-caching=1000
+https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
+#EXTINF:39,Lotus Macau HD (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+#EXTINF:60,Love Nature (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lnc-love-nature.tubi.video/playlist.m3u8
+#EXTINF:34,MNews (#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+#EXTINF:40,My Cinema Asia (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:29,NTD TV (New Tang Dynasty Television)
+#EXTVLCOPT:network-caching=1000
+http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
+#EXTINF:14,NTD TV West (New Tang Dynasty Television)
+#EXTVLCOPT:network-caching=1000
+https://ntd02.akamaized.net/NTD-West/index.m3u8
+#EXTINF:34,SET iNews
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+#EXTINF:30,TTV News (#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+#EXTINF:60,TVBS Asia (1080p)
+#EXTVLCOPT:network-caching=1000
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:34,TVBS News (TVBS#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+#EXTINF:60,tvN Movies (Indonesian Subtitle) (576p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:29,#EXTVLCOPT:network-caching=1000
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:32,#EXTVLCOPT:network-caching=1000
+http://live.cztv.cc:85/live/ggpd.m3u8
+#EXTINF:32,#EXTVLCOPT:network-caching=1000
+http://live.cztv.cc:85/live/xwpd.m3u8
+#EXTINF:103,BBC News Asia Pacific (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:60,Beautiful Life TV
+#EXTVLCOPT:network-caching=1000
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:42,Bloomberg TV Asia (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:50,Bloomberg TV Asia Live Event (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:9,DaAi1 (#EXTVLCOPT:network-caching=1000
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:9,DaAi2 (#EXTVLCOPT:network-caching=1000
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:250,Dali TV (#EXTVLCOPT:network-caching=1000
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:34,EBC YOYO (720p)
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
+#EXTINF:100,EWTN Africa Asia (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:100,EWTN Asia-Pacific (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:30,Global News (1080p)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:34,MNews (#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+#EXTINF:34,SET iNews
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+#EXTINF:30,TTV News (#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+#EXTINF:59,TVBS Asia (1080p)
+#EXTVLCOPT:network-caching=1000
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:29,#EXTVLCOPT:network-caching=1000
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:30,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:30,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:60,Celestial Movies (Indonesian Subtitle) (576p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:60,Pet Club TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:60,tvN Movies (Indonesian Subtitle) (576p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:103,BBC News Asia Pacific (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:60,Beautiful Life TV
+#EXTVLCOPT:network-caching=1000
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:42,Bloomberg TV Asia (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:50,Bloomberg TV Asia Live Event (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:9,DaAi1 (#EXTVLCOPT:network-caching=1000
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:9,DaAi2 (#EXTVLCOPT:network-caching=1000
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:250,Dali TV (#EXTVLCOPT:network-caching=1000
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:34,EBC YOYO (720p)
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
+#EXTINF:100,EWTN Africa Asia (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:100,EWTN Asia-Pacific (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:30,Global News (1080p)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:34,MNews (#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+#EXTINF:34,SET iNews
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+#EXTINF:30,TTV News (#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+#EXTINF:59,TVBS Asia (1080p)
+#EXTVLCOPT:network-caching=1000
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:29,#EXTVLCOPT:network-caching=1000
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:30,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:30,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:32,8TV (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
+#EXTINF:60,Astro Awani (720p)
+#EXTVLCOPT:network-caching=1000
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:103,BBC News Asia Pacific (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:28,Berita RTM [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTINF:30,Bernama TV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+#EXTINF:48,Bloomberg TV Asia (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:50,Bloomberg TV Asia Live Event (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:39,Cartoon Network Southeast Asia (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:18,Dunia Sinema (1080p)
+#EXTVLCOPT:network-caching=1000
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:98,EWTN Africa Asia (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:98,EWTN Asia-Pacific (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:30,Hot TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCFV_yPFxPbbmrYJ9J6zJglA.m3u8
+#EXTINF:60,K+ (Indonesian subtitle) (576p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:28,Kanal 10 Asia (540p)
+#EXTVLCOPT:network-caching=1000
+http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+#EXTINF:60,Kix (Indonesian Subtitle) (576p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+#EXTINF:28,Okey RTM [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#EXTINF:60,ROCK Action (576p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:60,ROCK Entertainment (576p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:30,RTM Parlimen (Dewan Negara) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+#EXTINF:50,tv1
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:50,tv2
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:50,sukan
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:32,TV3 [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
+#EXTINF:28,TV6 [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+#EXTINF:30,TV Selangor (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ythls.armelin.one/channel/UCldPEJgJgq_Mb6Ndek5RxQg.m3u8
+#EXTINF:36,TVIKIM
+#EXTVLCOPT:network-caching=1000
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:60,tvN Movies (Indonesian Subtitle) (576p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:25,Zarok TV Sorani (720p)
+#EXTVLCOPT:network-caching=1000
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
