@@ -26,6 +26,8 @@ https://rplus.iptvgo.workers.dev/hls/play.m3u8?id=4
 http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 #EXTINF:-1 group-title="TV Nasional",TVRI SPORT HD
 http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jgbb2dM/TVRI-WORLD.jpg" group-title="KNOWLEDGE", TVRI WORLD
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 group-title="TV Nasional",TV ONE HD
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTINF:-1 group-title="TV Nasional",KOMPAS TV HD
@@ -64,6 +66,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h233/01.m3u8
 #EXTINF:-1 group-title="TV Nasional",RODJA TV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFbxTWL/Smart-Select-20230609-105439-Picsart.jpg" group-title="NEWS", BN CHANNEL
+http://rr.dens.tv/h/h39/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQHJbg1/Smart-Select-20230610-155449-Picsart.jpg" group-title="NEWS", METRO GLOBE NETWORK
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+http://rr.dens.tv/h/h11/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bH4sFzG.png" tvg-id="beritasatuworld.id" group-title="TV Nasional",IDTV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
@@ -73,8 +81,17 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="tvku.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvku.png" group-title="TV Nasional",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KNnYpzj/Picsart-23-07-19-10-49-59-499.jpg" group-title="LOCAL", GARUDA TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/m5H2khp/puja-logo-tv.jpg" group-title="LOCAL", PUJA TV
+https://v6.siar.us/pujatv/live/playlist.m3u8
 
 ------KIDS------
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbL9bv1/Boomerang.jpg" group-title="KIDS", BOOMERANG
+http://iptvtree.net:8080/F14995/a84c0963/165109
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nBhpYXM/IndiKids.jpg" group-title="KIDS", FUN PLANET
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
 
@@ -85,6 +102,10 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lty2VTw/moonbug-kids-logo.jpg" group-title="KIDS", MOONBUG KIDS
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/0tTD3wg/vtv-logo-tv.jpg", VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
 
 -----ARAB ISLAM-----
 #EXTINF:-1 tvg-name="Qatar Television" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-id="QatarTelevision.qa" group-title="Qatar",Qatar Television
@@ -144,6 +165,10 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158836
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298570
 #EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="Channel Premium",SpoTV 2
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298571
+
+----------MOVIE-------------
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y26Xw3f/ficom-logo-tv.jpg" group-title="LOCAL", FICOM CHANNEL
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 ---------MALAYSIA BELUM RAPIKAN-----
 #EXTM3U
