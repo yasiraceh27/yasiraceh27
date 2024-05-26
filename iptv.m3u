@@ -26,20 +26,10 @@ https://rplus.iptvgo.workers.dev/hls/play.m3u8?id=4
 http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 #EXTINF:-1 group-title="TV Nasional",TVRI SPORT HD
 http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
-#EXTINF:-1 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://i.postimg.cc/2y4WwVhW/tvon.png" group-title="TV Nasional",TVONE
-http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1 group-title="TV Nasional",TV ONE SD
-http://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
 #EXTINF:-1 group-title="TV Nasional",TV ONE HD
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-#EXTINF:-1 group-title="TV Nasional",KOMPAS TV SD
-http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 #EXTINF:-1 group-title="TV Nasional",KOMPAS TV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-#EXTINF:-1 group-title="TV Nasional",METRO TV SD
-http://op-group1-swiftservehd-1.dens.tv/h/h211/01.m3u8
-#EXTINF:-1 group-title="TV Nasional",METRO TV HD
-http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 #EXTINF:-1 tvg-id="cnnindonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="TV Nasional",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="TV Nasional",CNBC Indonesia
@@ -83,31 +73,9 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="tvku.id" tvg-logo="http://12537-stream-ip-tv.xyz/assets/tv-logo/tvku.png" group-title="TV Nasional",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:-1 group-title="TV Nasional",DENS LIVE STYLE SD
-http://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8
-#EXTINF:-1 group-title="TV Nasional",DENS LIVE STYLE HD
-http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
-#EXTINF:-1 group-title="TV Nasional",DENS PLAY SD
-http://op-group1-swiftservehd-1.dens.tv/h/h225/01.m3u8
-#EXTINF:-1 group-title="TV Nasional",DENS PLAY HD
-http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
-#EXTINF:-1 group-title="TV Nasional",DENS PLAY SD
-http://op-group1-swiftservehd-1.dens.tv/h/h246/01.m3u8
-#EXTINF:-1 group-title="TV Nasional",DENS PLAY HD
-http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
-#EXTINF:-1 group-title="TV Nasional",DENS KNOWLEDGE SD
-http://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
-#EXTINF:-1 group-title="TV Nasional",DENS KNOWLEDGE HD
-http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-#EXTINF:-1 group-title="TV Nasional",DENS SNOWBIZ SD
-http://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
-#EXTINF:-1 group-title="TV Nasional",DENS SNOWBIZ HD
-http://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
-
 
 ------ENTERTAINMENT------
-#EXTINF:-1 tvg-name="Just for laughs – Pluto TV" tvg-logo="https://i.imgur.com/VvEz0XX.png" group-title="VOD Italy",Just for laughs – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?
+
 
 -----ARAB ISLAM-----
 #EXTINF:-1 tvg-name="Qatar Television" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-id="QatarTelevision.qa" group-title="Qatar",Qatar Television
