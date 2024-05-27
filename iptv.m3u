@@ -104,8 +104,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4prY0Hw/Lego.jpg" group-title="KIDS",Lego Channel 
 https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId=2&feedId=1120-v56&auth-token=1213111&version=sv7.0&deviceId=SDF543&deviceFwVer=4.99&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-https://i.mjh.nz/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
-https://legochannel-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lty2VTw/moonbug-kids-logo.jpg" group-title="KIDS", MOONBUG KIDS
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
