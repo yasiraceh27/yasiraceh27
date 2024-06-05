@@ -11,8 +11,6 @@ http://xtv.ooo:8080/live/8899/8899/350973.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  GLOBAL TV
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  INEWS
-http://xtv.ooo:8080/live/8899/8899/350973.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  INEWS 2
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200744.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  METRO TV
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
