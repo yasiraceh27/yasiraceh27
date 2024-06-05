@@ -6,11 +6,11 @@ https://raw.githubusercontent.com/ikitv/ikimunutv/main/tvri.m3u8
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  RCTI (N)
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  MNCTV (N)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  INEWS
 http://xtv.ooo:8080/live/8899/8899/350973.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  GLOBAL TV
 http://mykingtv.net:2082/live/NorHalizam69/Halizam111731/5127.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  INEWS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  MNCTV (N)
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200744.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  VISION PRIME (N)
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683124&extension=m3u8&play_token=wJfTp9js5o
