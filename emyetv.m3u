@@ -83,8 +83,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="TV MALAYSIA" ,  TV3
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=547749&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="TV MALAYSIA" ,  TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="TV MALAYSIA" ,  TV9
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=547748&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="TV MALAYSIA" ,  RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="TV MALAYSIA" ,  ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV MALAYSIA" ,  ASTRO CERIA
