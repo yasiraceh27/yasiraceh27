@@ -172,6 +172,12 @@ https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" ,  FIGHT SPORTS
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" , Fight Sports - 2
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/fightsport_rattus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" , Fight Sports - 3
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/fight_sports_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" ,  Motorsport
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/motorsport_norvegicus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" ,  Motorvision+
 http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" ,  MotoRRacing TV
