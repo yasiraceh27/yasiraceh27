@@ -249,6 +249,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wn
 http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="ENTERTAINMENT" ,  THRILL
 http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Thrill
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="ENTERTAINMENT" , Galaxy
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/galaxy_rattus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="ENTERTAINMENT" ,  Celestial Movies
 http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Celestial_Movies_HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="ENTERTAINMENT" ,  Celestial Classic Movies
