@@ -198,9 +198,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="ENTERTAINMENT" ,  My Cinema
 http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m59c58z/Desain-tanpa-judul-72-modified.png" group-title="ENTERTAINMENT" ,  My Family Channel
-http://210.210.155.35/x6bnqe/h/h194/index.m3u8
-http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m59c58z/Desain-tanpa-judul-72-modified.png" group-title="ENTERTAINMENT" ,  My Family Channel - 2
 http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="ENTERTAINMENT" , My Cinema Europe
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
