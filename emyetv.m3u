@@ -200,8 +200,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m59c58z/Desain-tanpa-judul-72-modified.png" group-title="ENTERTAINMENT" ,  My Family Channel
 http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="ENTERTAINMENT" , My Cinema Europe
-http://210.210.155.35:80/uq2663/h/h18/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="ENTERTAINMENT" , My Cinema Europe - 2
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
 #EXTINF:-1 tvg-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png" group-title="ENTERTAINMENT" ,  SONY PIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
