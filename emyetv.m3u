@@ -211,6 +211,12 @@ https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/dreamworks_rat
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/duniaanak_rattus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  IndiKids
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/indikids_rattus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  Nickelodeon
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/nickelodeon_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  Nick Junior
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/nickjr_rattus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  Nick Junior - 2
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/nickjr_norvegicus/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="ENTERTAINMENT" ,  K Plus
