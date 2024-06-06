@@ -203,6 +203,14 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,   Da Vinci Learning
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/davinci_rattus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  Dreamworks
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/dreamworks_rattus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  Dunia anak
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/duniaanak_rattus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  IndiKids
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/indikids_rattus/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="ENTERTAINMENT" ,  K Plus
@@ -266,6 +274,10 @@ https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/crimeinvestiga
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/crime_investigation_norvegicus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  History
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683091&extension=m3u8&play_token=wJfTp9js5o
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  History - 2
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/history_rattus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  History - 3
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/history_norvegicus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  HGTV
 #http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=799127&extension=m3u8
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683091&extension=m3u8&play_token=wJfTp9js5o
