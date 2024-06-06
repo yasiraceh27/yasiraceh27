@@ -280,6 +280,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 tvg-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png" group-title="ENTERTAINMENT" ,  SONY PIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="ENTERTAINMENT" , ETV BIOSKOP 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="ENTERTAINMENT" ,  ZEE BIOSKOP
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683155&extension=m3u8&play_token=wJfTp9js5o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  Nat Geo
