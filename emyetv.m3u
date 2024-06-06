@@ -258,6 +258,12 @@ http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:7C:23:B8&stream=105599&e
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=190&extension=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  Animal Planet Eng
 http://gtvstreams.me:80/play/live.php?mac=00:1a:79:af:7d:70&stream=765365&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  Animal Planet
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/animalplanet_rattus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  Crime Investigation
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/crimeinvestigation_rattus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  Crime Investigation - 2
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/crime_investigation_norvegicus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  History
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683091&extension=m3u8&play_token=wJfTp9js5o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  HGTV
