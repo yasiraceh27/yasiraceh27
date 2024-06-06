@@ -42,8 +42,8 @@ http://mykingtv.net:2082/live/NorHalizam69/Halizam111731/5151.m3u8
 http://mykingtv.net:2082/live/NorHalizam69/Halizam111731/5149.m3u8
 #EXTINF:-1 tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhr0N-2a_FwCHoZm5elBrI4RYsMLG6iWCqCadQDgpJPbJ.png" group-title="TV NASIONAL" ,  ANTV
 http://mykingtv.net:2082/live/NorHalizam69/Halizam111731/5124.m3u8
-#EXTINF:-1 tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhhQOgzrcaXEsPpH5FwmvENbVKFUwXdEmVrE5oHT8AXEn.png" group-title="TV NASIONAL" ,  SCTV (N)
-http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8?app_type=web&userid=lite&chname=SCTV
+#EXTINF:-1 tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhhQOgzrcaXEsPpH5FwmvENbVKFUwXdEmVrE5oHT8AXEn.png" group-title="TV NASIONAL" ,  SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="TV NASIONAL" ,  INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/rtv.png" group-title="TV NASIONAL" ,  RTV
