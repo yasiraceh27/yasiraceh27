@@ -207,6 +207,8 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="ENTERTAINMENT" ,  K Plus
 http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="ENTERTAINMENT" ,  Arirang
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/pratensis/arirang_pratensis/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="ENTERTAINMENT" ,  KBS Korea
 http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_Korea_Free_Trial-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="ENTERTAINMENT" ,  KBS World
