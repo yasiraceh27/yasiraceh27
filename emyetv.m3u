@@ -76,6 +76,11 @@ https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 http://xtv.ooo:8080/live/6301638/5295385/350925.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  Citra Bioskop (N)
 http://xtv.ooo:8080/live/6301638/5295385/350920.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  Al Jazeera Arabic
+http://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_Arabic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  Al Jazeera English
+http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_English
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="TV MALAYSIA" ,  TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -120,6 +125,7 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/i
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="TV MALAYSIA" ,  DUNIA SINEMA
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" ,  SPOTV
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683117&extension=m3u8&play_token=wJfTp9js5o
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" ,  SPOTV 2
@@ -157,6 +163,7 @@ https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" ,  SSC ARAB 3
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  Aniplus
 http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  My Kidz
@@ -168,6 +175,7 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="ENTERTAINMENT" ,  K Plus
 http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD
