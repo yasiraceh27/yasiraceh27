@@ -130,12 +130,22 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/i
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg" group-title="SPORT" , AstroSupersport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SPORT" , AstroSupersport
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SPORT" , AstroSupersport 2
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="SPORT" , AstroSupersport 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SPORT" , AstroSupersport 2 - 2
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/59219
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="SPORT" , AstroSupersport 3
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="SPORT" , AstroSupersport 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="SPORT" , AstroSupersport 3 - 2
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-titlee="SPORT" , AstroSupersport 4
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-titlee="SPORT" , AstroSupersport 4 - 2
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-titlee="SPORT" , AstroSupersport 5
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1713
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" ,  SPOTV
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683117&extension=m3u8&play_token=wJfTp9js5o
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" ,  SPOTV 2
