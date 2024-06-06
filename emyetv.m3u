@@ -87,18 +87,36 @@ http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=547749&extensio
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="TV MALAYSIA" ,  TV9
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=547748&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="TV MALAYSIA" ,  TV9 - 2
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="TV MALAYSIA" ,  RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="TV MALAYSIA" ,  RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="TV MALAYSIA" ,  Selangor TV
+https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="TV MALAYSIA" ,  TV OKEY
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="TV MALAYSIA" ,  DidikTv KPM
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvKPM/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="TV MALAYSIA" ,  ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="TV MALAYSIA" ,  ASTRO AWANI - 2
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV MALAYSIA" ,  ASTRO CERIA
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV MALAYSIA" ,  ASTRO CITRA
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1pYYSu2.png" group-title="TV MALAYSIA" ,  SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1pYYSu2.png" group-title="TV MALAYSIA" ,  SUKAN RTM - 2
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/SukanRTM/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Xzxsgl.png" group-title="TV MALAYSIA" ,  BERITA RTM
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Xzxsgl.png" group-title="TV MALAYSIA" ,  BERITA RTM - 2
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRTM/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Xzxsgl.png" group-title="TV MALAYSIA" ,  TV Ikim
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/index.m3u8
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="TV MALAYSIA" ,  DUNIA SINEMA
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 
@@ -152,6 +170,9 @@ https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="ENTERTAINMENT" ,  KIX
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683134&extension=m3u8&play_token=wJfTp9js5o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="ENTERTAINMENT" ,  THRILL
+#EXTINF:-1 tvg-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png" group-title="ENTERTAINMENT" ,  SONY PIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683154&extension=m3u8&play_token=wJfTp9js5o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="ENTERTAINMENT" ,  ZEE BIOSKOP
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683155&extension=m3u8&play_token=wJfTp9js5o
@@ -159,7 +180,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683155&ex
 http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:7C:23:B8&stream=105599&extension=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  Nat Geo Wild
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=190&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  Animal Planet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  Animal Planet Eng
 http://gtvstreams.me:80/play/live.php?mac=00:1a:79:af:7d:70&stream=765365&extension=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  History
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683091&extension=m3u8&play_token=wJfTp9js5o
