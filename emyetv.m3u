@@ -34,8 +34,8 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="TV NASIONAL" ,  MOJI
 http://xtv.ooo:8080/live/8899/8899/350997.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/1200px-Mentari_TV.svg.png" group-title="TV NASIONAL" ,  MENTARI TV (N)
-https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/1200px-Mentari_TV.svg.png" group-title="TV NASIONAL" ,  MENTARI TV
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/mentaritv_rattus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="TV NASIONAL" ,  TRANS TV
 http://mykingtv.net:2082/live/NorHalizam69/Halizam111731/5151.m3u8
 #EXTINF:-1 tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhrTfl_GgmkpkhBLnqN9FnxiKFgCcxikJ3WqlIUoGavny.png" group-title="TV NASIONAL" ,  TRANS 7
