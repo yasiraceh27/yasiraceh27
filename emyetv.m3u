@@ -66,20 +66,44 @@ http://iptvtree.net:8080/AmirBilali/76448035/165060
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/165060
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kompastv.png" group-title="TV NASIONAL" ,  KOMPAS TV(5)
 http://210.210.155.37/uq2663/h/h234/01.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  CNBC INDONESIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/16/CNBC_Indonesia_logo.svg/1200px-CNBC_Indonesia_logo.svg.png" group-title="TV NASIONAL" ,  CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  CNN INDONESIA
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="TV NASIONAL" ,  CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="TV NASIONAL" ,  SINDO NEWS (N)
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683193&extension=m3u8&play_token=wJfTp9js5o
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="TV NASIONAL" ,  CNN INDONESIA(2)
+http://iptvtree.net:8080/AmirBilali/76448035/162137
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="TV NASIONAL" ,  CNN INDONESIA(3)
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/162137
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="TV NASIONAL" ,  SINDO NEWS
+http://iptvtree.net:8080/AmirBilali/76448035/299485
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="TV NASIONAL" ,  NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhtSVQyG1_ZUbDCRtPaa9iYt5lRFLMztJVy4ZDoYgWmI6.png" group-title="TV NASIONAL" ,  NET TV
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png" group-title="TV NASIONAL" ,  NET TV
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="TV NASIONAL" ,  MOJI
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png" group-title="TV NASIONAL" ,  NET TV(2)
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/net_rattus/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png" group-title="TV NASIONAL" ,  NET TV(3)
+http://210.210.155.37/uq2663/h/h223/01.m3u8
+#EXTINF:-1 tvg-logo="https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/moji.m3u8" group-title="TV NASIONAL" ,  MOJI
 http://xtv.ooo:8080/live/8899/8899/350997.m3u8
+#EXTINF:-1 tvg-logo="https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/moji.m3u8" group-title="TV NASIONAL" ,  MOJI(2)
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/ochannel_rattus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/moji.m3u8" group-title="TV NASIONAL" ,  MOJI(3)
+http://iptvtree.net:8080/AmirBilali/76448035/298550
+#EXTINF:-1 tvg-logo="https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/moji.m3u8" group-title="TV NASIONAL" ,  MOJI(4)
+http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298550
+#EXTINF:-1 tvg-logo="https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/moji.m3u8" group-title="TV NASIONAL" ,  MOJI(5)
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+#EXTINF:-1 tvg-logo="https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/moji.m3u8" group-title="TV NASIONAL" ,  MOJI(6)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
+#EXTINF:-1 tvg-logo="https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/moji.m3u8" group-title="TV NASIONAL" ,  MOJI(7)
+http://210.210.155.37/x6bnqe/s/s41/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/1200px-Mentari_TV.svg.png" group-title="TV NASIONAL" ,  MENTARI TV
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/mentaritv_rattus/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="TV NASIONAL" ,  TRANS TV
 http://mykingtv.net:2082/live/NorHalizam69/Halizam111731/5151.m3u8
 #EXTINF:-1 tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhrTfl_GgmkpkhBLnqN9FnxiKFgCcxikJ3WqlIUoGavny.png" group-title="TV NASIONAL" ,  TRANS 7
