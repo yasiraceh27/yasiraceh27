@@ -234,6 +234,8 @@ https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" ,  TNT SPORT 2
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" ,  US FOX Sports 1
+http://117tv.icu:8080/live/X5xRz0/944877/46792.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" ,  SPORTSTARS
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683133&extension=m3u8&play_token=wJfTp9js5o
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" ,  SPORTSTARS 2
