@@ -315,11 +315,11 @@ https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/animax_rattus/
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="KIDS" ,  My Kids
 http://210.210.155.37/x6bnqe/h/h191/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  ZooMoo Kids 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/z77n91gcp9kmpyz/zoomoo.png" group-title="KIDS" ,  ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  Baby Shark Tv
 https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  PBS Kids
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/vaar4is5vpsv38c/images%20%283%29.jpeg" group-title="KIDS" ,  PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,   Da Vinci Learning
@@ -330,6 +330,8 @@ https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/dreamworks_rat
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/duniaanak_rattus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  IndiKids
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/indikids_rattus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ozc4u9twi5f4917/moonbugkids.png" group-title="KIDS"  , Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  Nickelodeon
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/nickelodeon_norvegicus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  Nick Junior
