@@ -98,6 +98,9 @@ http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 #EXTINF:-1 tvg-logo="https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/moji.m3u8" group-title="TV NASIONAL" ,  MOJI(7)
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
+#EXTINF:-1 tvg-logo="https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/moji.m3u8" group-title="TV NASIONAL" ,  MOJI(8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/1200px-Mentari_TV.svg.png" group-title="TV NASIONAL" ,  MENTARI TV
@@ -150,6 +153,10 @@ https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  Citra Bioskop (N)
 http://xtv.ooo:8080/live/6301638/5295385/350920.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="TV NASIONAL" , Dens Learning & Knowledge
+http://210.210.155.37/uq2663/h/h236/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg" group-title="TV NASIONAL" , Dens Showbiz
+http://210.210.155.37/uq2663/h/h244/01.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  Al Jazeera Arabic
 http://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_Arabic
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  Al Jazeera English
