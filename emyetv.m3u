@@ -5,13 +5,13 @@ https://raw.githubusercontent.com/ikitv/ikimunutv/main/tvri.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1200px-New_Logo_TVRI.png" group-title="TV NASIONAL" ,  TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="TV NASIONAL" ,  RCTI+
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://rplus.iptvgo.workers.dev/hls/play.m3u8?id=1
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="TV NASIONAL" ,  RCTI
 http://iptvtree.net:8080/AmirBilali/76448035/157591
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="TV NASIONAL" ,  RCTI(2)
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/157591
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="TV NASIONAL" ,  INEWS+
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://rplus.iptvgo.workers.dev/hls/play.m3u8?id=4
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="TV NASIONAL" ,  INEWS
 http://xtv.ooo:8080/live/8899/8899/350973.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="TV NASIONAL" ,  INEWS(2)
@@ -19,7 +19,7 @@ http://iptvtree.net:8080/AmirBilali/76448035/157579
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="TV NASIONAL" ,  INEWS(3)
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/157579
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="TV NASIONAL" ,  GLOBAL TV+
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://rplus.iptvgo.workers.dev/hls/play.m3u8?id=3
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="TV NASIONAL" ,  GLOBAL TV
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/gtv_norvegicus/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="TV NASIONAL" ,  GLOBAL TV(2)
@@ -27,7 +27,7 @@ http://iptvtree.net:8080/AmirBilali/76448035/157578
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="TV NASIONAL" ,  GLOBAL TV(3)
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/157578
 #EXTINF:-1 tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="TV NASIONAL" ,  MNCTV+
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://rplus.iptvgo.workers.dev/hls/play.m3u8?id=2
 #EXTINF:-1 tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="TV NASIONAL" ,  MNCTV
 http://iptvtree.net:8080/AmirBilali/76448035/165054
 #EXTINF:-1 tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="TV NASIONAL" ,  MNCTV(2)
