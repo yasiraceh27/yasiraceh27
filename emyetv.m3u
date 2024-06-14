@@ -211,6 +211,22 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/i
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png" group-title="SPORT" , World Cup2026 Qualified
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png" group-title="SPORT" , World Cup2026 Qualified(2)
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png" group-title="SPORT" , World Cup2026 Qualified(3)
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png" group-title="SPORT" , World Cup2026 Qualified(4)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1bup/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png" group-title="SPORT" , World Cup2026 Qualified(5)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hgfdfghjikmnhygf/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png" group-title="SPORT" , World Cup2026 Qualified(6)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png" group-title="SPORT" , World Cup2026 Qualified(7)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png" group-title="SPORT" , World Cup2026 Qualified(8)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SPORT" , AstroSupersport
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SPORT" , AstroSupersport2
