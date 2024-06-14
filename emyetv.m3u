@@ -133,6 +133,8 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 https://streaming.indihometv.com/atm/DASH/idx/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  JAKARTA GLOBE(N)
 https://raw.githubusercontent.com/ikitv/ikimunutv/main/antv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R7km87W/psjtv.png" group-title="TV NASIONAL" ,  PSJ TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="TV NASIONAL" ,  TV KESEHATAN
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="TV NASIONAL" ,  Rodja TV
@@ -227,6 +229,30 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png" group-title="SPORT" , World Cup2026 Qualified(8)
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6xydam/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7GJnHMX/adsport1.png" group-title="SPORT", ABU DHABI SPORTS 1 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7GJnHMX/adsport1.png" group-title="SPORT", ABU DHABI SPORTS 1 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9vLdWtm/adsport2.png" group-title="SPORT", ABU DHABI SPORTS 2 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9vLdWtm/adsport2.png" group-title="SPORT", ABU DHABI SPORTS 2 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YpQ86Qk/kass1.png" group-title="SPORT", AL KASS 1 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1bup/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/m9WKtjB/kass2.png" group-title="SPORT", AL KASS 2 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hgfdfghjikmnhygf/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tw6nR1k/kass3.png" group-title="SPORT", AL KASS 3 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b2TpfKx/kass4.png" group-title="SPORT", AL KASS 4 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SPORT" , AstroSupersport
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SPORT" , AstroSupersport2
@@ -241,6 +267,14 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-titlee="SPORT" , AstroSupersport4(2)
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-titlee="SPORT" , Bein Sports Xtra USA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-titlee="SPORT" , Bein Sports Xtra SPAIN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-titlee="SPORT" , Bein Sports Xtra SPAIN(2)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-titlee="SPORT" , Bein Sports Xtra SPAIN(3)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-titlee="SPORT" , W-Sport
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1713
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-titlee="SPORT" ,  FIFA+
