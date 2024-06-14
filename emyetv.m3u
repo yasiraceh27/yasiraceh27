@@ -18,17 +18,21 @@ http://iptvtree.net:8080/AmirBilali/76448035/157579
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/157579
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="TV NASIONAL" ,  GLOBAL TV+
 https://rplus.iptvgo.workers.dev/hls/play.m3u8?id=3
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="TV NASIONAL" ,  GLOBAL TV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/gtv_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="TV NASIONAL" ,  GLOBAL TV(1)
+http://mykingtv.net:2082/live/NorHalizam69/Halizam111731/5127.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="TV NASIONAL" ,  GLOBAL TV(2)
-http://iptvtree.net:8080/AmirBilali/76448035/157578
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/gtv_norvegicus/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="TV NASIONAL" ,  GLOBAL TV(3)
+http://iptvtree.net:8080/AmirBilali/76448035/157578
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="TV NASIONAL" ,  GLOBAL TV(4)
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/157578
 #EXTINF:-1 tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="TV NASIONAL" ,  MNCTV+
 https://rplus.iptvgo.workers.dev/hls/play.m3u8?id=2
 #EXTINF:-1 tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="TV NASIONAL" ,  MNCTV
-http://iptvtree.net:8080/AmirBilali/76448035/165054
+http://mykingtv.net:2082/live/NorHalizam69/Halizam111731/5139.m3u8
 #EXTINF:-1 tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="TV NASIONAL" ,  MNCTV(2)
+http://iptvtree.net:8080/AmirBilali/76448035/165054
+#EXTINF:-1 tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="TV NASIONAL" ,  MNCTV(3)
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/165054
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_94.png" group-title="TV NASIONAL" ,  VISION PRIME
 http://iptvtree.net:8080/AmirBilali/76448035/197958
@@ -113,8 +117,12 @@ http://mykingtv.net:2082/live/NorHalizam69/Halizam111731/5149.m3u8
 http://mykingtv.net:2082/live/NorHalizam69/Halizam111731/5124.m3u8
 #EXTINF:-1 tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhhQOgzrcaXEsPpH5FwmvENbVKFUwXdEmVrE5oHT8AXEn.png" group-title="TV NASIONAL" ,  SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1 tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhhQOgzrcaXEsPpH5FwmvENbVKFUwXdEmVrE5oHT8AXEn.png" group-title="TV NASIONAL" ,  SCTV(2)
+http://mykingtv.net:2082/live/NorHalizam69/Halizam111731/5147.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="TV NASIONAL" ,  INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="TV NASIONAL" ,  INDOSIAR(2)
+http://mykingtv.net:2082/live/NorHalizam69/Halizam111731/6982.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/rtv.png" group-title="TV NASIONAL" ,  RTV
 http://210.210.155.37/session/01ec4c78-827b-11ee-93b3-aa38b7050ceb/uq2663/h/h10/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="TV NASIONAL" ,  GARUDA TV
@@ -265,6 +273,8 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-titlee="SPORT" , AstroSupersport4(2)
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-titlee="SPORT" , AstroArena2
+http://mykingtv.net:2082/live/NorHalizam69/Halizam111731/8648.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-titlee="SPORT" , Bein Sports Xtra USA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-titlee="SPORT" , Bein Sports Xtra SPAIN
