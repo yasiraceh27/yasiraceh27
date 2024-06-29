@@ -314,6 +314,10 @@ http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/3002.ts
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/3003.ts
 #EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" , TSN1
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/3004.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  SpoTV
+http://iptvtree.net:8080/AmirBilali/76448035/298570
+#EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  SpoTV 2
+http://iptvtree.net:8080/AmirBilali/76448035/298571
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" ,  SKY SPORT RACING
 http://117tv.icu:8080/live/X5xRz0/944877/76842.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  SKY MOTOGP
@@ -358,6 +362,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  MNC Sports
+http://iptvtree.net:8080/AmirBilali/76448035/157589
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT", W-Sport
 http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=W-Sport
