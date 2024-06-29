@@ -254,6 +254,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  CANAL+ MOTOGP
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2793.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  CANAL+ MOTOGP(2)
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2713
+#EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  DAZN 1 MOTOGP FHD
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/432455
 #EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  DAZN1
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2905.ts
 #EXTINF:-1 tvg-logo="https://crescentshoppingcentre.ie/wp-content/uploads/2022/05/sports-diect-Logo-1.jpg" group-title="SPORT",   Direct Sports
@@ -288,10 +292,6 @@ http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2846.ts
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2847.ts
 #EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  PREMIERSPORTS1
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2868.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" ,  SPOTV
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/spotv_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" , SPOTV2
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/spotv2_norvegicus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1681127600649822213/PiUZuOVQ_200x200.jpg" group-title="SPORT" ,  TNT SPORT2
 https://6oclock.xyz:8443/9rpAZwWZT9/zaGl252Y2w/20820
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1681127600649822213/PiUZuOVQ_200x200.jpg" group-title="SPORT" ,  TNT SPORT3
@@ -316,6 +316,8 @@ http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/3003.ts
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/3004.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT" ,  SKY SPORT RACING
 http://117tv.icu:8080/live/X5xRz0/944877/76842.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  SKY MOTOGP
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1700
 #EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  SKY SPORT FOOTBALL
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2870.ts
 #EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  SKY SPORT ACTION
@@ -448,6 +450,8 @@ http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=190&extension
 http://gtvstreams.me:80/play/live.php?mac=00:1a:79:af:7d:70&stream=765365&extension=m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="ENTERTAINMENT" ,  ANIMAL PLANET ENG
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2952.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  Animal Planet Id
+http://iptvtree.net:8080/AmirBilali/76448035/157532
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  Animal Planet
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/animalplanet_rattus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  Crime Investigation
