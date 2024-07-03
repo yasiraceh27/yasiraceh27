@@ -108,6 +108,12 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="TV NASIONAL" ,  INDOSIAR INDIHOME(2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/indosiar/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/rtv.png" group-title="TV NASIONAL" ,  RTV
 http://210.210.155.37/session/01ec4c78-827b-11ee-93b3-aa38b7050ceb/uq2663/h/h10/02.m3u8
