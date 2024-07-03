@@ -107,12 +107,6 @@ http://mykingtv.net:2082/live/NorHalizam69/Halizam111731/6982.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
 
-#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/indosiar.png" group-title="Lokal" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar(4)
-http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
-
-#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/indosiar.png" group-title="Lokal" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar(5)
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/rtv.png" group-title="TV NASIONAL" ,  RTV
 http://210.210.155.37/session/01ec4c78-827b-11ee-93b3-aa38b7050ceb/uq2663/h/h10/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="TV NASIONAL" ,  GARUDA TV
