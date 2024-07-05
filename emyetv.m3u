@@ -219,14 +219,10 @@ http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2829.ts
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2830.ts
 #EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" , BEIN SPORT
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/3159.ts
-#EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  Bein Sports Xtra USA
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  Bein Sports Xtra SPAIN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  Bein Sports Xtra SPAIN(2)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  Bein Sports Xtra SPAIN(3)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" , Bein SportXtra USA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" , Bein SportXtra SPAIN
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  CANAL+ MOTOGP
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2793.ts
 #EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" ,  CANAL+ MOTOGP(2)
