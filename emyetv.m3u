@@ -249,6 +249,8 @@ http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2916.ts
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2917.ts
 #EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" , ESPN2
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/3137.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/QJfdo" group-title="SPORT" , Fox Sports 2 HD
+http://45.5.151.151:8000/play/a0ce/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT",  HorizonSports
 http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=HorizonSports
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/120.jpg" group-title="SPORT" ,  Motor Racing
