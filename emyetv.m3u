@@ -427,18 +427,30 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="ENTERTAINMENT" ,  Cinemax
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgpeWx8nhDQ_0xs6Sy8ESYYZTkAkVjA7CgtNyfpBei3qA.png" group-title="ENTERTAINMENT" ,HBO(2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/1
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgpeWx8nhDQ_0xs6Sy8ESYY-QA9Bb5Pkib0kmCh5dZR3-zO0CrfFQjZ5yRRDsQa01M.png" group-title="ENTERTAINMENT" ,HBO SIGN(2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/3
-#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgpeWx8nhDQ_0xs6Sy8ESYYFsnqjPMw-YgDBHbDm42jMjAIWaw9BihMSiFckeem9vc.png" group-title="ENTERTAINMENT" ,HBO HITS(2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/2
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgpeWx8nhDQ_0xs6Sy8ESYY4qra40FlUU8tf34IqfTfeauGKxilrTq9dnAm5jC5YiY.png" group-title="ENTERTAINMENT" ,HBO FAMILY(2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/4
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="ENTERTAINMENT",HBO Family FHD
+https://nonton.site:8443/ekos/748344x/30184
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="ENTERTAINMENT",HBO Family HD
+https://nonton.site:8443/ekos/748344x/592
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="ENTERTAINMENT",HBO Family SD
+https://nonton.site:8443/ekos/748344x/26598
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="ENTERTAINMENT",HBO FHD
+https://nonton.site:8443/ekos/748344x/1496
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="ENTERTAINMENT",HBO HD
+https://nonton.site:8443/ekos/748344x/210
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="ENTERTAINMENT",HBO Hits FHD
+https://nonton.site:8443/ekos/748344x/11492
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="ENTERTAINMENT",HBO Hits HD
+https://nonton.site:8443/ekos/748344x/591
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="ENTERTAINMENT",HBO Hits SD
+https://nonton.site:8443/ekos/748344x/26596
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="ENTERTAINMENT",HBO SD
+https://nonton.site:8443/ekos/748344x/26595
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="ENTERTAINMENT",HBO Signature FHD
+https://nonton.site:8443/ekos/748344x/1498
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="ENTERTAINMENT",HBO Signature HD
+https://nonton.site:8443/ekos/748344x/873
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="ENTERTAINMENT",HBO Signature SD
+https://nonton.site:8443/ekos/748344x/26597
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="ENTERTAINMENT" ,  ROCK ACTION
 http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action
