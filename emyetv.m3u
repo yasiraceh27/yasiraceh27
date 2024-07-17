@@ -269,6 +269,16 @@ http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2917.ts
 http://170.82.37.21:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="SPORT" , ESPN2
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/3137.ts
+
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="fox.sports.1.us" tvg-logo="https://media.tv4.live/fox.sports.1.us.png" group-title="SPORT",   Fox Sports1
+https://tvnow.best/api/stream/daryllueh@yahoo.com.tw/410400/livetv.epg/fox.sports.1.us.m3u8
+#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="SPORT" ,  FOX Sports1(2)
+http://117tv.icu:8080/live/X5xRz0/944877/1846.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORT" ,  FOX Sports1(2)
+http://117tv.icu:8080/live/X5xRz0/944877/46792.m3u8
+#EXTINF:-1 tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png" group-title="SPORT" ,  Fox Sports2 
+http://117tv.icu:8080/live/X5xRz0/944877/1847.m3u8
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="SPORT" , Fox Sports 2 HD
 http://45.5.151.151:8000/play/a0ce/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="SPORT",  HorizonSports
@@ -345,12 +355,7 @@ http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/3189.ts
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/3190.ts
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="SPORT" , SPORT TV1
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/3192.ts
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="SPORT" ,  US FOX Sports1
-http://117tv.icu:8080/live/X5xRz0/944877/1846.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORT" ,  US FOX Sports1(2)
-http://117tv.icu:8080/live/X5xRz0/944877/46792.m3u8
-#EXTINF:-1 tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png" group-title="SPORT" ,  US Fox Sports2 
-http://117tv.icu:8080/live/X5xRz0/944877/1847.m3u8
+
 
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/thFkNxM/soccerch.png" group-title="SPORT", SOCCER CHANNEL 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -363,6 +368,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
+
+
+
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="SPORT" ,  MNC Sports
 http://iptvtree.net:8080/AmirBilali/76448035/157589
