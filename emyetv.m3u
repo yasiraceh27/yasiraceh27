@@ -329,8 +329,13 @@ http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/3003.ts
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/3004.ts
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="SPORT" ,  SpoTV
 http://iptvtree.net:8080/AmirBilali/76448035/298570
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="SPORT" ,  SpoTV 2
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="SPORT" ,  SpoTV2
 http://iptvtree.net:8080/AmirBilali/76448035/298571
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BeIN Sport 1 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="SPORT" ,SpoTV(1)
+https://nonton.site:8443/ekos/748344x/728
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BeIN Sport 2 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="SPORT" ,SpoTV2(2)
+https://nonton.site:8443/ekos/748344x/729
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="SPORT" ,  SKY MOTOGP
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1700
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="SPORT" ,  SKY SPORT FOOTBALL
