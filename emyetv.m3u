@@ -493,6 +493,11 @@ http://117tv.icu:8080/live/X5xRz0/944877/46724.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png" group-title="ENTERTAINMENT" ,  HISTORY ENG(2)
 http://117tv.icu:8080/live/X5xRz0/944877/15017.m3u8
 
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="History FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="ENTERTAINMENT",History FHD
+https://nonton.site:8443/ekos/748344x/8131
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="History HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="ENTERTAINMENT",History HD
+https://nonton.site:8443/ekos/748344x/718
+
   ***********EURO  *************
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="COPA EURO", COPA EURO AR: ESPN
