@@ -374,21 +374,23 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1713
 
 -----=================KIDS============----------
 
+#EXTINF:-1 group-title="KIDS" tvg-id="aniplus.id" tvg-logo="https://iptv.urfan.web.id/logo/aniplus.png",ANIPLUS
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="KIDS" ,  My Kidz
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="KIDS" ,  My Kidz(2)
 http://210.210.155.37/x6bnqe/h/h191/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/z77n91gcp9kmpyz/zoomoo.png" group-title="KIDS" ,  ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.ibb.co.com/Kxp5QMG/funplanet.png" group-title="KIDS" , FUN PLANET
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ikitv/plus/main/antv.png" group-title="KIDS" ,  Baby Shark Tv
 https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/vaar4is5vpsv38c/images%20%283%29.jpeg" group-title="KIDS" ,  PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ozc4u9twi5f4917/moonbugkids.png" group-title="KIDS"  , Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV_Indonesia_White_2023.svg/2560px-VTV_Indonesia_White_2023.svg.png" group-title="KIDS" ,  VTV
