@@ -193,6 +193,38 @@ http://124.217.248.213:8080/https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.chan
 #EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="TV MALAYSIA" tvg-logo="https://telegra.ph/file/071ec21b298280a2e418c.png" tvg-id="135.astro",TRAVEL & TASTE
 http://124.217.248.213:8080/https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 
+==MOTOGP====
+#EXTINF:-1 group-title="MOTOGP",PPV| MotoGP: Main Race
+http://extraott.com:80/live/7921751389/6097373662/5292.m3u8
+#EXTINF:-1 group-title="MOTOGP",PPV| MotoGP: Heli Cam
+http://extraott.com:80/live/7921751389/6097373662/5293.m3u8
+#EXTINF:-1 group-title="MOTOGP",PPV| MotoGP: HeadCam 1
+http://extraott.com:80/live/7921751389/6097373662/5294.m3u8
+#EXTINF:-1 group-title="MOTOGP",PPV| MotoGP: HeadCam 2
+http://extraott.com:80/live/7921751389/6097373662/5295.m3u8
+#EXTINF:-1 group-title="MOTOGP",PPV| MotoGP: HeadCam 3
+http://extraott.com:80/live/7921751389/6097373662/5296.m3u8
+#EXTINF:-1 group-title="MOTOGP",PPV| MotoGP: HeadCam 4
+http://extraott.com:80/live/7921751389/6097373662/5297.m3u8
+#EXTINF:-1 group-title="MOTOGP",PPV| MotoGP - Commentary Feed
+http://extraott.com:80/live/7921751389/6097373662/47315.m3u8
+#EXTINF:-1 group-title="MOTOGP",PPV| MotoGP - Ambient Feed
+http://extraott.com:80/live/7921751389/6097373662/47316.m3u8
+#EXTINF:-1 group-title="MOTOGP",PPV| MotoGP - HELI Feed
+http://extraott.com:80/live/7921751389/6097373662/47317.m3u8
+#EXTINF:-1 group-title="MOTOGP",PPV| MotoGP - OB1 Feed
+http://extraott.com:80/live/7921751389/6097373662/47318.m3u8
+#EXTINF:-1 group-title="MOTOGP",PPV| MotoGP - OB2 Feed
+http://extraott.com:80/live/7921751389/6097373662/47319.m3u8
+#EXTINF:-1 group-title="MOTOGP",PPV| MotoGP - OB3 Feed
+http://extraott.com:80/live/7921751389/6097373662/47320.m3u8
+#EXTINF:-1 group-title="MOTOGP",PPV| MotoGP - OB4 Feed
+http://extraott.com:80/live/7921751389/6097373662/47321.m3u8
+#EXTINF:-1 group-title="MOTOGP",IT| SKY SPORT MOTOGP HD
+http://extraott.com:80/live/7921751389/6097373662/35386.m3u8
+#EXTINF:-1 group-title="MOTOGP",IT| SKY SPORT MOTOGP FHD
+http://extraott.com:80/live/7921751389/6097373662/194225.m3u8
+
 -----=================SPORT============----------
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png" group-title="SPORT" , World Cup2026 Qualified
