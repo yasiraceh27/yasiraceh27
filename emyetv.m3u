@@ -264,6 +264,20 @@ http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/3159.ts
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="SPORT" , Bein SportXtra SPAIN
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 1
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/43065
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/628
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/33221
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/43066
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 3
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/629
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 4
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/1375
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="SPORT" ,  CANAL+ MOTOGP
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2793.ts
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="SPORT" ,  CANAL+ MOTOGP(2)
@@ -379,6 +393,32 @@ http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2879.ts
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2880.ts
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="SPORT" ,  SKY SPORT ARENA
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/2902.ts
+
+#EXTINF:-1 tvg-name="" tvg-id="sky-sports-maine" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Main Event
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/80622
+#EXTINF:-1 tvg-name="" tvg-id="sky-sports-maine" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Main Event
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73795
+#EXTINF:-1 tvg-name="" tvg-id="sky-sports-football" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Football
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73785
+#EXTINF:-1 tvg-name="" tvg-id="sky-sports-football" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Football
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/80620
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports F1 4K
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73791
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Mix
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73787
+#EXTINF:-1 tvg-name="" tvg-id="sky-sports-apl" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Premier League
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73789
+#EXTINF:-1 tvg-name="" tvg-id="sky-sports-apl" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Premier League
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/80626
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Golf
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73790
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Cricket
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73793
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Racing
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/80627
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Action
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73784
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="SPORT" , SPORT TV
 http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/3187.ts
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="SPORT" , SPORT TV2
@@ -553,7 +593,30 @@ https://nonton.site:8443/ekos/748344x/8131
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="History HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="ENTERTAINMENT",History HD
 https://nonton.site:8443/ekos/748344x/718
 
-  ***********EURO  *************
+*********** OLYMPUADE *************
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="OLYMPUADE" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 1
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/33209
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="OLYMPUADE" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 1
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/43096
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="OLYMPUADE" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 1
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/1364
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="OLYMPUADE" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 1
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/80554
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="OLYMPUADE" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/43098
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="OLYMPUADE" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/1363
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="OLYMPUADE" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/80555
+
+#EXTINF:-1 group-title="OLYMPUADEs", Premier 1-USA Network
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/1135
+#EXTINF:-1 group-title="OLYMPUADE", Premier 2-USA Network
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/77440
+#EXTINF:-1 group-title="OLYMPUADE", Premier 4-USA Network
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/69239
+
+***********EURO  *************
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="COPA EURO", COPA EURO AR: ESPN
 http://170.82.37.21:8000/play/a04g/index.m3u8
