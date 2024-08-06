@@ -132,7 +132,7 @@ http://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8?app_type=web&amp;userid
 http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_English
 
 
------=================MALAYSIA============----------
+=====MALAYSIA============----------
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="TV MALAYSIA" ,  TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -225,7 +225,7 @@ http://extraott.com:80/live/7921751389/6097373662/35386.m3u8
 #EXTINF:-1 group-title="MOTOGP",IT| SKY SPORT MOTOGP FHD
 http://extraott.com:80/live/7921751389/6097373662/194225.m3u8
 
------=================SPORT============----------
+===SPORT============----------
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png" group-title="SPORT" , World Cup2026 Qualified
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8
@@ -531,7 +531,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV_Indonesia_White_2023.svg/2560px-VTV_Indonesia_White_2023.svg.png" group-title="KIDS" ,  VTV
 https://flv.intechmedia.net/live/ch107.m3u8
 
------=================ENTERTAINMENT============----------
+==ENTERTAINMENT============----------
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="ENTERTAINMENT" ,  K Plus
 http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD
@@ -625,7 +625,10 @@ https://nonton.site:8443/ekos/748344x/8131
 #EXTINF:-1 tvg-id="ABC.au" tvg-name="History HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="ENTERTAINMENT",History HD
 https://nonton.site:8443/ekos/748344x/718
 
-*********** OLYMPYADE *************
+** OLYMPYADE *************
+
+#EXTINF:-1 group-title="OLYMPYADE", CH6 🇲🇾
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 
 #EXTINF:-1 group-title="OLYMPYADE",Olimpik 1 
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/chunklist_b2596000_slENG.m3u8
