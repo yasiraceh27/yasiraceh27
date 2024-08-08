@@ -2,9 +2,7 @@
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  TVRI(2)
 http://210.210.155.37/x6bnqe/s/s11/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/106.jpg" group-title="TV NASIONAL" ,  TVRI SPORT
-https://raw.githubusercontent.com/ikitv/ikimunutv/main/tvri.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  TVRI SPORT(2)
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  TVRI SPORT
 http://210.210.155.37/x6bnqe/s/s107/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/1200px-New_Logo_TVRI.png" group-title="TV NASIONAL" ,  TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
