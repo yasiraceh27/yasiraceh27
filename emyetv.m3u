@@ -26,6 +26,12 @@ http://iptvtree.net:8080/AmirBilali/76448035/165059
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  KOMPAS TV
 http://iptvtree.net:8080/AmirBilali/76448035/165060
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" , KOMPAS TV(2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" , TVONE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  CNN INDONESIA
