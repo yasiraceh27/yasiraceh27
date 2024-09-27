@@ -1,6 +1,4 @@
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  TVRI
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  TVRI(2)
 http://210.210.155.37/x6bnqe/s/s11/index.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  TVRI SPORT
 http://210.210.155.37/x6bnqe/s/s107/index.m3u8
@@ -8,25 +6,7 @@ http://210.210.155.37/x6bnqe/s/s107/index.m3u8
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  TVRI ACEH
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  RCTI
-http://iptvtree.net:8080/AmirBilali/76448035/157591
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  INEWS
-http://iptvtree.net:8080/AmirBilali/76448035/157579
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  GLOBAL TV
-http://iptvtree.net:8080/AmirBilali/76448035/157578
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  MNCTV
-http://iptvtree.net:8080/AmirBilali/76448035/165054
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  VISION PRIME
-http://iptvtree.net:8080/AmirBilali/76448035/197958
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  METRO TV
-http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  METRO TV(3)
-http://iptvtree.net:8080/AmirBilali/76448035/165059
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  METRO GLOBE NETWORK
-https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  KOMPAS TV
-http://iptvtree.net:8080/AmirBilali/76448035/165060
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" , KOMPAS TV(2)
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" , KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" , TVONE HD 
@@ -36,34 +16,18 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  CNN INDONESIA(2)
-http://iptvtree.net:8080/AmirBilali/76448035/162137
---rtv
--metrotv
---IDTV
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  NET TV
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  MOJI
-http://iptvtree.net:8080/AmirBilali/76448035/298550
+http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  MOJI(2)
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  MOJI(3)
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  MOJI(4)
-http://210.210.155.37/x6bnqe/s/s41/index.m3u8
-#EXTINF:-1 tvg-tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  SCTV
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  INDOSIAR
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  INDOSIAR(2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  INDOSIAR(3)
-http://iptvtree.net:8080/e891d265/89d742c3/162138
-
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  GARUDA TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  BTV
@@ -71,8 +35,6 @@ http://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?app_type=web&am
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  VTV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch107.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  MAGNA CHANEL
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="Maxstream.id" tvg-logo="https://shorturl.at/MjtCq",MAXSTREAM
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
@@ -149,12 +111,6 @@ https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
 #EXTINF:-1 group-title="IndihomEmyE"  tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV
 https://cdn09jtedge.indihometv.com/joss/130/kungfutv/index.m3u8?c
-#EXTINF:-1 group-title="IndihomEmyE"  tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13",GEM
-https://cdn09jtedge.indihometv.com/joss/133/sgem/index.m3u8?c
-#EXTINF:-1 group-title="IndihomEmyE"  tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png",ZHEJIANG TV
-https://cdn09jtedge.indihometv.com/joss/130/zhejiang/index.m3u8?c
-#EXTINF:-1 group-title="IndihomEmyE"  tvg-logo="https://images.indihometv.com/logo_shenzen_small.png",SHENZEN TV
-https://cdn09jtedge.indihometv.com/joss/130/shenzen/index.m3u8?c
 #EXTINF:-1 group-title="IndihomEmyE"  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
 https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 #EXTINF:-1 group-title="IndihomEmyE"  tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE
