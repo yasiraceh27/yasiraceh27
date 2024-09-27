@@ -125,8 +125,6 @@ https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
 #EXTINF:-1 group-title="IndihomEmyE"  tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",ASIA FOOD NETWORK
 https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
-#EXTINF:-1 group-title="IndihomEmyE"  tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png",HGTV
-https://cdn09jtedge.indihometv.com/joss/133/hg/index.m3u8?c
 #EXTINF:-1 group-title="IndihomEmyE"  tvg-logo="https://images.indihometv.com/logo_eatgo_small1.png?v=2.0.0.13",EAT&GO
 https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
 #EXTINF:-1 group-title="IndihomEmyE"  tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png",CITRA DANGDUT
@@ -167,7 +165,14 @@ https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8?c
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be21d3755722/a6cfe63428a24077b08b6cbb960e409a.png" group-title="Knowledge & Documentary",Lingua Channel
 https://cdn09jtedge.indihometv.com/joss/133/lingua/index.m3u8
 
+====MOTOGP===
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="MOTOGP" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/628
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="MOTOGP" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/33221
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="MOTOGP" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/43066
 
 ==MALAYSIA============----------
 
