@@ -213,7 +213,9 @@ http://nv1connect.com:80/tamtam/tjfYkCbP3s/628
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/33221
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://shorturl.at/MjtCq" group-title="MOTOGP" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 2
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/43066
-#EXTINF:-1 group-title="MOTOGP"  tvg-logo="https://shorturl.at/MjtCq",SPOTV
+#EXTINF:-1 tvg-id="" tvg-name="ID: 01. ETV Live Event" tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="MOTOGP",SPOTV
+https://v.af/visionples-trans7
+#EXTINF:-1 group-title="MOTOGP"  tvg-logo="https://shorturl.at/MjtCq",SPOTV(2)
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 group-title="MOTOGP"  tvg-logo="https://shorturl.at/MjtCq",SPOTV2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
