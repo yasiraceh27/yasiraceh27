@@ -190,6 +190,9 @@ http://31.42.187.37:25461/watchpad13158/1234/112
 #EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="eMYeSport",Astro Supersport 4
 http://31.42.187.37:25461/watchpad13158/1234/111
 
+#EXTINF:-1 group-title="eMYeSport" tvg-id="" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png",BeinSport
+http://Supersonictv.live:8080/live/006779/439866/22187.ts
+
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" tvg-name="[ID] Indosiar" group-title="eMYeSport",Astro Supersport 4(2)
 https://v.af/visionples-rcti
 
