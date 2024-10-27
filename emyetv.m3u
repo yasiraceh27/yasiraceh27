@@ -65,7 +65,7 @@ http://210.210.155.37/x6bnqe/s/s27/index.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  MEKKAH TV
 http://210.210.155.37/x6bnqe/s/s28/index.m3u8
 
-==INDIHOME EMYE==
+==INDIHOME EMYE======================================================================================================================
 
 #EXTINF:-1 group-title="IndihomEmyE"  tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
@@ -186,7 +186,8 @@ https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8?c
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be21d3755722/a6cfe63428a24077b08b6cbb960e409a.png" group-title="IndihomEmyE",Lingua Channel
 https://cdn09jtedge.indihometv.com/joss/133/lingua/index.m3u8
 
-==EMYE Sport==
+==EMYE Sport============================================================================================================================
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -249,7 +250,7 @@ https://v.af/visionples-rcti
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png" group-title="eMYeSport", Soccer9 Channel
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 
-====MOTOGP===
+====MOTOGP===============================================================================================================================
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://shorturl.at/MjtCq" group-title="MOTOGP" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 2
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/43066
@@ -258,7 +259,7 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 group-title="MOTOGP"  tvg-logo="https://shorturl.at/MjtCq",SPOTV2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
-====LAIN2===
+====LAIN2===============================================================================================================================
 
 #EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="LAIN2",HBO
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
