@@ -1,18 +1,58 @@
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  TVRI
 http://210.210.155.37/x6bnqe/s/s11/index.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  Tvri
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/36
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  TVRI SPORT
 http://210.210.155.37/x6bnqe/s/s107/index.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  TVRI ACEH
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" , KOMPAS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" , TVONE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  NET TV
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/24
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  KOMPAS TV
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/30
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" , Kompas Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  SCTV
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/32
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  Sctv
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/931
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  TRANSTV
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/34
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  TransTV
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/929
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  TRANS7
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/35
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  Trans7
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/930
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  METRO TV
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/52
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  Metro TV
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1697
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  NET TV
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/78
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  RTV
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37
+
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  Insert
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1763
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  Indosiar
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1845
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  CNBC INDONESIA
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1512
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  Cnbc Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
@@ -54,6 +94,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  Citra Drama
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/905
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  Citra Dangdut
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2207
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  TV KESEHATAN
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  RODJA TV
@@ -65,7 +109,7 @@ http://210.210.155.37/x6bnqe/s/s27/index.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  MEKKAH TV
 http://210.210.155.37/x6bnqe/s/s28/index.m3u8
 
-==INDIHOME EMYE======================================================================================================================
+==INDIHOME EMYE=====================================================================================================================================================================================================
 
 #EXTINF:-1 group-title="IndihomEmyE"  tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
@@ -186,7 +230,7 @@ https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8?c
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be21d3755722/a6cfe63428a24077b08b6cbb960e409a.png" group-title="IndihomEmyE",Lingua Channel
 https://cdn09jtedge.indihometv.com/joss/133/lingua/index.m3u8
 
-==EMYE Sport============================================================================================================================
+==EMYE Sport=================================================================================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
@@ -262,7 +306,7 @@ https://v.af/visionples-rcti
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png" group-title="eMYeSport", Soccer9 Channel
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 
-====MOTOGP===============================================================================================================================
+====MOTOGP==================================================================================================================================================================================================
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://shorturl.at/MjtCq" group-title="MOTOGP" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 2
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/43066
@@ -273,22 +317,29 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 group-title="MOTOGP"  tvg-logo="https://shorturl.at/MjtCq",SPOTV2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
-====LAIN2===============================================================================================================================
+====LAIN2=====================================================================================================================================================================================================
 
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/4B5FvmX.png" group-title="LAIN2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="LAIN2",HBO Signature
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  HBO
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  Hbo
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1496
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  HBO HITS
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/591
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  HBO FAMILY
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/592
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  HBO Signature
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
-#EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://th.bing.com/th/id/OIP.0c6d3hoH5evqsJVNnbhVNwHaC3?w=333&h=135&c=7&r=0&o=5&dpr=1.3&pid=1.7" group-title="LAIN2",Rock Action (Dens)
-http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="LAIN2",Cinemax
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  Hbo Signature
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1498
 
-#EXTINF:-1 group-title="LAIN2" tvg-id="KIX - [Channel 161].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg",KIX
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648809294-.png" group-title="LAIN2",Celestial Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -338,122 +389,84 @@ https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png" group-title="LAIN2",KBS WORLD
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
-===BARU===============================================================================================================================
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  ANIPLUS
+===BARU=================================================================================================================================================================
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  ANIPLUS
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  ANIMAX
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  ANIMAX
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/3
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  THRILL
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  THRILL
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/4
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  CELESTIAL MOVIES
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  CELESTIAL MOVIES
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/5
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  KIX
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  KIX
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  AXN
+
+#EXTINF:-1 group-title="LAIN2" tvg-id="KIX - [Channel 161].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg",Kix
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  AXN
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/9
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  K+
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  K+
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/18
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  ONE
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  ONE
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/19
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  DAAI TV
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  DAAI TV
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/21
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  NET TV
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/24
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  KOMPAS TV
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/30
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  SCTV
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/32
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  TRANSTV
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/34
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  TRANS7
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/35
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  TVRI
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/36
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  RTV
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  AFN
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  AFN
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/44
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  METRO TV
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/52
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  NET TV
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/78
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  ALJAZIRA ENG
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  ALJAZIRA ENG
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/89
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  HITS
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  HITS
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/94
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  DISCOVERY
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  DISCOVERY
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/95
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  W-SPORT
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  W-SPORT
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/98
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  HITS MOVIE
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  HITS MOVIE
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/99
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  BTV
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  BTV
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/136
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  DW
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  DW
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/205
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  HBO
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  MY KIDZ
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  MY KIDZ
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/213
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  FASHION TV
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  FASHION TV
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/280
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  CARTOONITO
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  CARTOONITO
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/305
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  TECHSTORM
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  TECHSTORM
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/455
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  HGTV
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  HGTV
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/537
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  GOLF
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  GOLF
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/561
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  HBO HITS
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/591
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  HBO FAMILY
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/592
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  CARTOON NETWORK
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/680
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  History
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  History
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/718
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  France24
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  France24
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/787
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  AFN
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  AFN
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/807
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  lifetime
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  lifetime
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/866
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  HBO Signature
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  Citra Drama
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/905
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  TVN Movies
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  TVN Movies
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/927
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  TransTV
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/929
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  Trans7
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/930
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  SCTV
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/931
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  Prambors
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  Prambors
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1157
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  TV Luar
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  CNN Eng
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1200
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  My Kidz
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  My Kidz
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1483
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  HBO
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1496
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  HBO Signature
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1498
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  Rock Action
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  ROCK ACTION
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1506
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  CNBC Indonesia
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1512
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  WB Tv
+#EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://th.bing.com/th/id/OIP.0c6d3hoH5evqsJVNnbhVNwHaC3?w=333&h=135&c=7&r=0&o=5&dpr=1.3&pid=1.7" group-title="LAIN2",Rock Action
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  WB Tv
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1533
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  Metro TV
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1697
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  Musik
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  1Mus.com
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1731
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  Insert
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1763
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  Indosiar
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1845
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="BARU" ,  Cinemax
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  Cinemax
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
+
