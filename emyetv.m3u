@@ -336,11 +336,6 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  Hbo Signature
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1498
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648809294-.png" group-title="LAIN2",Celestial Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
@@ -353,38 +348,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
-#EXTINF:-1 tvg-id="My Cinema - [Channel 16].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.jpg" group-title="LAIN2",MyCinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="My Cinema Asia - [Channel 17].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_17.jpg" group-title="LAIN2",MyCinema Asia (dens)
-http://rr3.dens.tv/h/h193/index.m3u8
-
-#EXTINF:-1 tvg-id="My Family - [Channel 15].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.jpg" group-title="LAIN2",MyFamily (dens)
-http://rr3.dens.tv/h/h194/index.m3u8
-
-#EXTINF:-1 group-title="LAIN2" tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg", My Cinema Europe
-http://rr.dens.tv/h/h18/index.m3u8
-
-#EXTINF:-1 tvg-id="tvN Movies HD - [Channel 415].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png" group-title="LAIN2",tvN movies (dens)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://indihome.co.id/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTINF:-1 group-title="LAIN2" tvg-id="SONE" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d6/Logo_One_TV_Asia_%282020%29.png/400px-Logo_One_TV_Asia_%282020%29.png",ONE
 https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
-
-#EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.pngkey.com/png/full/306-3060351_k-plus-k-plus-channel-logo.png" group-title="LAIN2",K+
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png" group-title="LAIN2",KBS WORLD
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
@@ -409,6 +378,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/9
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  K+
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/18
+
+#EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.pngkey.com/png/full/306-3060351_k-plus-k-plus-channel-logo.png" group-title="LAIN2",k+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  ONE
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/19
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  DAAI TV
@@ -453,12 +428,34 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/807
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/866
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  TVN Movies
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/927
+
+#EXTINF:-1 tvg-id="tvN Movies HD - [Channel 415].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png" group-title="LAIN2",tvN movies
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  Prambors
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1157
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  CNN Eng
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1200
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  My Kidz
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  MyKidz
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1483
+
+#EXTINF:-1 tvg-id="My Cinema - [Channel 16].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.jpg" group-title="LAIN2",MyCinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="My Cinema Asia - [Channel 17].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_17.jpg" group-title="LAIN2",MyCinema Asia
+http://rr3.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-id="My Family - [Channel 15].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.jpg" group-title="LAIN2",MyFamily
+http://rr3.dens.tv/h/h194/index.m3u8
+#EXTINF:-1 group-title="LAIN2" tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg", MyCinema Europe
+http://rr.dens.tv/h/h18/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,  ROCK ACTION
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1506
 #EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://th.bing.com/th/id/OIP.0c6d3hoH5evqsJVNnbhVNwHaC3?w=333&h=135&c=7&r=0&o=5&dpr=1.3&pid=1.7" group-title="LAIN2",Rock Action
