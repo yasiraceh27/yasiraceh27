@@ -276,9 +276,14 @@ http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=277975&exten
 #EXTINF:-1 group-title="eMYeSport" tvg-id="" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png",BeinSport
 http://Supersonictv.live:8080/live/006779/439866/22187.ts
 
+#EXTINF:-1 tvg-id="beinsports1" tvg-logo="https://i.ibb.co/mtGttGH/ccbein1.jpg" group-title="eMYeSport",BEIN Sports¹ 🇲🇾
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37432
+#EXTINF:-1 tvg-id="beinsports2" tvg-logo="https://i.ibb.co/KGSMWn6/ccbein2.png" group-title="eMYeSport",BEIN Sports² 🇲🇾
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48099
+#EXTINF:-1 tvg-id="beinsports3" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png" group-title="eMYeSport",BEIN Sports³ 🇲🇾
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37433
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbn4jHxR5R9ll1HEiogOCmfM-MTyqkgH7TjAj8OOHProtbpFcw5p-EIai7rzdZvBmE.png" group-title="eMYeSport",BeinSport 1
-
-
 
 #EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="eMYeSport",beINS3ᴸᴬᴸᴵᴳᴬ_🇶🇦
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/901.ts
