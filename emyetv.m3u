@@ -294,6 +294,15 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg" group-title="eMYeSport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-nine-299.png" group-title="eMYeSport",SuperSport Premier League_🇿🇦
+http://iptv12k.com:35461/654321/123456/5005
+http://iptv12k.com:35461/654321/123456/5671
+#http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-five-295.png" group-title="eMYeSport",SuperSport Football_🇿🇦
+http://iptv12k.com:35461/654321/123456/5003
+http://iptv12k.com:35461/654321/123456/5670
+
+
 #EXTINF:-1 group-title="eMYeSport" tvg-logo="http://ktv.im:8080/images/17e23e50bedc63b4095e3d8204ce063b.png" tvg-id="TNTSports1.uk" ,TNT SPORTS 1
 http://ktv.im:8080/873747737/637763736/1159
 
