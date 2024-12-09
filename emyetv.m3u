@@ -357,6 +357,18 @@ https://v.af/visionples-rcti
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png" group-title="eMYeSport", Soccer9 Channel
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 
+#EXTINF:-1 group-title="eMYeSport" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars 1 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="eMYeSport",Soccer channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
+
 ====MOTOGP==================================================================================================================================================================================================
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://shorturl.at/MjtCq" group-title="MOTOGP" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 2
@@ -395,6 +407,10 @@ https://rr.vipstreams.in/alpha/js/motogp-malaysia-gp-moto3-race/1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/alpha/js/motogp-malaysia-gp-moto2-race/1/playlist.m3u8
+
+
+
+
 
 ====LAIN2=====================================================================================================================================================================================================
 
