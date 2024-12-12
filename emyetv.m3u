@@ -369,6 +369,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportst
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png" group-title="eMYeSport", Khusus Live
+https://output.unregister.xyz/euro/inavslaos_uhd/index.m3u8
+
 ====MOTOGP==================================================================================================================================================================================================
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://shorturl.at/MjtCq" group-title="MOTOGP" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 2
