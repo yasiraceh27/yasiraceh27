@@ -230,6 +230,13 @@ https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8?c
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be21d3755722/a6cfe63428a24077b08b6cbb960e409a.png" group-title="IndihomEmyE",Lingua Channel
 https://cdn09jtedge.indihometv.com/joss/133/lingua/index.m3u8
 
+==EMYE AFC================================================================
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="EMYE AFC" ,  VTV5-LAOSvsPHILIPINA
+https://lebo.huminbird.cn/live/ballbar_38250.m3u8
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="EMYE AFC" ,  INDOVSVIETNAM
+https://midcache.rctiplus.id/hdlive2/inavsvietnam.m3u8
+
 ==EMYE Sport=================================================================================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
