@@ -231,10 +231,10 @@ https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/133/lingua/index.m3u8
 
 ==EMYE AFC================================================================
-#EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-name="vtv5hd" tvg-logo="https://raw.githubusercontent.com/Hannstcott/logo/main/VTV%205.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
+#EXTINF:-1 group-title="EMYE AFC" tvg-id="vtv5hd" tvg-name="vtv5hd" tvg-logo="https://raw.githubusercontent.com/Hannstcott/logo/main/VTV%205.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
 http://thvip.site/vtv5/index.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/Hannstcott/logo/main/VTV%205TNB.png" catchup="append" catchup-days="0.3" catchup-source="https://vtvgo-livewebs.vtvdigital.vn/d03ddbe42a1e4443990ba67d569ebab7/1639498340048/vtv5tnb/index-${start}-${offset}.m3u8", VTV5 HD Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="EMYE AFC" tvg-logo="https://raw.githubusercontent.com/Hannstcott/logo/main/VTV%205TNB.png" catchup="append" catchup-days="0.3" catchup-source="https://vtvgo-livewebs.vtvdigital.vn/d03ddbe42a1e4443990ba67d569ebab7/1639498340048/vtv5tnb/index-${start}-${offset}.m3u8", VTV5 HD Tây Nam Bộ
 http://thvip.site/taynambo/index.m3u8
 
 
