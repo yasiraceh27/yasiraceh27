@@ -301,6 +301,24 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg" group-title="eMYeSport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="eMYeSport", Sky Sport1 NZ FHD
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="eMYeSport", Sky Sport2 NZ FHD
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="eMYeSport", Sky Sport3 NZ FHD
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="eMYeSport", Sky Sport4 NZ FHD
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="eMYeSport", Sky Sport5 NZ FHD
+https://7pal.short.gy/skyspt5nz
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="eMYeSport", Sky Sport6 NZ FHD
+https://7pal.short.gy/skyspt6nz
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="eMYeSport", Sky Sport7 NZ FHD
+https://7pal.short.gy/skyspt7nz
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="eMYeSport", Sky Sport Premier League FHD
+https://7pal.short.gy/skyspt8nz
+
+
 #EXTINF:-1 group-title="eMYeSport" tvg-logo="http://ktv.im:8080/images/17e23e50bedc63b4095e3d8204ce063b.png" tvg-id="TNTSports1.uk" ,TNT SPORTS 1
 http://ktv.im:8080/873747737/637763736/1159
 
