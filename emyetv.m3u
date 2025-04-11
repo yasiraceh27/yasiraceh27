@@ -256,6 +256,13 @@ http://31.42.187.37:25461/watchpad13158/1234/112
 #EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="eMYeSport",Astro Supersport 4
 http://31.42.187.37:25461/watchpad13158/1234/111
 
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Arena Sport 1 🇷🇸
+http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Arena Sport 3 🇷🇸
+http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Arena Sport 4 🇷🇸
+http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
+
 #EXTINF:-1 group-title="eMYeSport" tvg-id="" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png",BeinSport
 http://Supersonictv.live:8080/live/006779/439866/22187.ts
 
@@ -297,7 +304,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 https://7pal.short.gy/fox501au
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="https://i.imgur.com/7G0lOta.png" group-title="eMYeSport", Fox Sports 502
 https://7pal.short.gy/fox502au
-#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://i.imgur.com/fndl6gs.png" group-title="eMYeSport", ox Sports 503
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://i.imgur.com/fndl6gs.png" group-title="eMYeSport", Fox Sports 503
 https://7pal.short.gy/fox503au
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-logo="https://i.imgur.com/0tZxstM.png" group-title="eMYeSport", Fox Sports 504
 https://7pal.short.gy/fox504au
