@@ -374,6 +374,9 @@ https://7pal.short.gy/tntspts3
 
 #EXTINF:-1 group-title="MOTOGP-F1"  tvg-logo="https://shorturl.at/MjtCq",TNT Sport 4 (FHD)
 https://7pal.short.gy/tntspts4
+
+#EXTINF:-1 group-title="MOTOGP-F1"  tvg-logo="https://shorturl.at/MjtCq", Supersport_Motosport-FHD
+https://7pal.short.gy/sperspmts
 ====LAIN2=====================================================================================================================================================================================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/aniplus.jpeg" group-title="LAIN2",Aniplus
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
