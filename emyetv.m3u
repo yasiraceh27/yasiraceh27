@@ -318,15 +318,16 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png" group-title="eMYeSport", Soccer9 Channel
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 
-====MOTOGP==================================================================================================================================================================================================
+====MOTOGP-F1==================================================================================================================================================================================================
 
-#EXTINF:-1 group-title="MOTOGP"  tvg-logo="https://shorturl.at/MjtCq",SPOTV2
+#EXTINF:-1 group-title="MOTOGP-F1"  tvg-logo="https://shorturl.at/MjtCq",SPOTV2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="MOTOGP",CANAL+MotoGp
-http://vip.sibfungold.net:8080/jimbojimbo8842/k362zDQEN080tW6LzXvy/54738
-http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/2789
+#EXTINF:-1 group-title="MOTOGP-F1"  tvg-logo="https://shorturl.at/MjtCq",Sky Sports Racing
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7341/index.m3u8
 
+#EXTINF:-1 group-title="MOTOGP-F1"  tvg-logo="https://shorturl.at/MjtCq",Sky Sports F1
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7342/index.m3u8
 ====LAIN2=====================================================================================================================================================================================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/aniplus.jpeg" group-title="LAIN2",Aniplus
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
