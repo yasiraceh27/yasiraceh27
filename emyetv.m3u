@@ -8,6 +8,11 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  TVRI ACEH
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="IDTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/idtv.png",BERITA SATU
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" , TVONE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
