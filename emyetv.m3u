@@ -130,6 +130,12 @@ https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd
 
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://alkhalifitv.github.io/TV/big/mentaritv.png" group-title="IndihomEmyE",Mentari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
 ==EMYE AFC PLUS LIGA 1================================================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png" group-title="EMYE AFC PLUS LIGA 1",BRI LIGA 1c
@@ -286,3 +292,18 @@ http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-id="mnc: Thrill.hk" tvg-name="mnc: Thrill" tvg-logo="https://alkhalifitv.github.io/TV/big/thrill.png" group-logo="https://alkhalifitv.github.io/TV/logo/group/film.png" group-title="LAIN2",Thrill
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s34/01.m3u8
+
+#EXTINF:-1 tvg-id="mnc: RockExtreme.sg" tvg-name="mnc: Rock Action" tvg-logo="https://alkhalifitv.github.io/TV/big/rock_action.png" group-logo="https://alkhalifitv.github.io/TV/logo/group/film.png" group-title="LAIN2",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-id="mnc: ROCKEntertainment.sg" tvg-name="mnc: ROCK Entertainment" tvg-logo="https://alkhalifitv.github.io/TV/big/rock_ent.png" group-logo="https://alkhalifitv.github.io/TV/logo/group/hiburan.png" group-title="LAIN2",Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8
+
+#EXTINF:-1 channel-id="ESBC2700008SK-es" tvg-id="ESBC2700008SK" tvg-chno="4166" tvg-name="Just For Laughs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20241022T051028SQUARE.png" group-title="LAIN2", Just For Laughs
+https://jmp2.uk/sam-ESBC2700008SK.m3u8
