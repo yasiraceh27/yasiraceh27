@@ -113,53 +113,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 ==EMYE Sport=================================================================================================================================================================================================
 
-#EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="eMYeSport",Astro Supersport 1
-http://31.42.187.37:25461/watchpad13158/1234/114
-
-#EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="eMYeSport",Astro Supersport 2
-http://31.42.187.37:25461/watchpad13158/1234/113
-
-#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="eMYeSport",Astro Supersport 3
-http://31.42.187.37:25461/watchpad13158/1234/112
-
-#EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="eMYeSport",Astro Supersport 4
-http://31.42.187.37:25461/watchpad13158/1234/111
-
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Arena Sport 1 🇷🇸
 http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Arena Sport 3 🇷🇸
-http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Arena Sport 4 🇷🇸
 http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
 
 #EXTINF:-1 group-title="eMYeSport" tvg-id="" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png",BeinSport
 http://Supersonictv.live:8080/live/006779/439866/22187.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbn4jHxR5R9ll1HEiogOCmfM-MTyqkgH7TjAj8OOHProtbpFcw5p-EIai7rzdZvBmE.png" group-title="eMYeSport",BeinSport 1
-
-#EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="eMYeSport",beINS3ᴸᴬᴸᴵᴳᴬ_🇶🇦
-http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/901.ts
-
-#EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="eMYeSport",beINS3ᴸᴵᴳᴬ_🇶🇦
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://webhdrunns.mizhls.ru/lb/premium93/index.m3u8
-
-#EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="eMYeSport",beINS4ᴸᴵᴳᵁᴱ ¹_🇶🇦
-http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/902.ts
-
-#EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="eMYeSport",beINS5ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ_🇶🇦
-http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/905.ts
-
-#EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="eMYeSport",beINS6_🇶🇦
-http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/904.ts
-
-#EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="eMYeSport",beINS7_🇶🇦
-http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/907.ts
-
-#EXTINF:1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-bein-sports-8-qa-2870.png" group-title="eMYeSport",beINS8ᴸᴬᴸᴵᴳᴬ_🇶🇦
-http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/906.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/07/billiard-logo-sml.png" group-title="eMYeSport",Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
@@ -169,7 +129,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
  #EXTINF:-1 group-title="eMYeSport" tvg-logo="https://dl.dropboxusercontent.com/s/vq8ed1nf10ym1n1/dubaisports3.png",Dubai SPORT 3 
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://pixvid.org/images/2025/01/31/Fox501.png" group-title="eMYeSport", Fox Sports 5021
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://pixvid.org/images/2025/01/31/Fox501.png" group-title="eMYeSport", Fox Sports 501
 https://7pal.short.gy/fox501au
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="https://i.imgur.com/7G0lOta.png" group-title="eMYeSport", Fox Sports 502
 https://7pal.short.gy/fox502au
@@ -187,9 +147,7 @@ https://7pal.short.gy/fox507au
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title="eMYeSport",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
- 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/aqb7snrx7sg3862/realmadridtv.png" group-title="eMYeSport",Real Madrid TV
-https://rmtv-canela.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg" group-title="eMYeSport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
@@ -218,15 +176,6 @@ http://ktv.im:8080/873747737/637763736/1159
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffc555c120261e93a09cedcc9ccb541c:28acbfe596ae377c78330c7e0034817f
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="eMYeSport",Soccer channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png" group-title="eMYeSport", Soccer9 Channel
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 
 ====MOTOGP-F1==================================================================================================================================================================================================
 
