@@ -218,6 +218,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7341/index.m3u8
 #EXTINF:-1 group-title="MOTOGP-F1"  tvg-logo="https://shorturl.at/MjtCq",Sky Sports F1
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7342/index.m3u8
 
+#EXTINF:-1 tvg-id="SS MotorSport" tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="MOTOGP-F1",SS MotorSport
+http://aflaxtv.xyz:8080/F25093/29838750/303855
+
 #EXTINF:-1 group-title="MOTOGP-F1"  tvg-logo="https://shorturl.at/MjtCq",TNT Sport 1 (FHD)
 https://7pal.short.gy/tntspts1
 
