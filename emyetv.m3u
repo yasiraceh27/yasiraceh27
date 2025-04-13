@@ -122,6 +122,10 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
+#EXTINF:-1 tvg-id="MTATV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png" group-title="IndihomEmyE",MTA TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
+
 ==EMYE AFC PLUS LIGA 1================================================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png" group-title="EMYE AFC PLUS LIGA 1",BRI LIGA 1c
