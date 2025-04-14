@@ -1,3 +1,7 @@
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" group-title="TV NASIONAL" tvg-logo="https://iili.io/JjzV89s.png",Sportstars 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,TVRI Nasional
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
