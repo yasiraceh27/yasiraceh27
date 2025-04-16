@@ -309,6 +309,11 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 ====MOTOGP-F1==================================================================================================================================================================================================
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="MOTOGP-F1",SpoTV
+http://iptvtree.net:8080/F25093/29838750/165105
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="MOTOGP-F1",SpoTV 2
+http://iptvtree.net:8080/F25093/29838750/298506
+
 #EXTINF:-1 group-title="MOTOGP-F1"  tvg-logo="https://shorturl.at/MjtCq",CANAL+ SPORT 2 HD
 http://185.236.229.62:9981/play/a05t
 
