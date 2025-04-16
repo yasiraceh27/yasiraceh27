@@ -266,6 +266,17 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
 
+#EXTINF:-1 group-title="Vision+eMYe" tvg-id="tvnasia.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",tvN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/tvN/sa_dash/tvN.mpd
+
+#EXTINF:-1 group-title="Vision+eMYe" tvg-id="tvnmoviesasia.hk" tvg-logo="https://i.imgur.com/c4XvwO2.png",tvN Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
 
 ==EMYE AFC PLUS LIGA 1==============================================================================================================================================================
 
