@@ -309,6 +309,26 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 ====MOTOGP-F1==================================================================================================================================================================================================
 
+#EXTM3U refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MotoGP: Main Race" tvg-logo="https://lo1.in/it/mtgp.png" group-title="MOTOGP-F1",PPV| MotoGP: Main Race
+#http://extraott.com:900/live/3162523972/3791698850/5292.m3u8
+http://extraott.com:900/live/3162523972/3791698850/47315.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MotoGP: Main Race" tvg-logo="https://lo1.in/it/mtgp.png" group-title="MOTOGP-F1",PPV| MotoGP: Main Race2
+http://extraott.com:900/live/3162523972/3791698850/47316.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MotoGP -  OB1 Feed" tvg-logo="https://lo1.in/it/mtgp.png" group-title="MOTOGP-F1",PPV| MotoGP -  OB1 Feed
+http://extraott.com:900/live/3162523972/3791698850/47318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MotoGP -  OB2 Feed" tvg-logo="https://lo1.in/it/mtgp.png" group-title="MOTOGP-F1",PPV| MotoGP -  OB2 Feed
+http://extraott.com:900/live/3162523972/3791698850/47319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MotoGP -  OB3 Feed" tvg-logo="https://lo1.in/it/mtgp.png" group-title="MOTOGP-F1",PPV| MotoGP -  OB3 Feed
+http://extraott.com:900/live/3162523972/3791698850/47320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY MIX Feed" tvg-logo="https://lo1.in/it/mtgp.png" group-title="MOTOGP-F1",SKY MIX Feed
+http://extraott.com:900/live/3162523972/3791698850/79115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://lo1.in/it/mtgp.png" group-title="MOTOGP-F1",ESPN LIVE
+http://fortv.cc:8080/live/cQnq6G/652882/2210.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="MOTOGP-F1",SpoTV
 http://iptvtree.net:8080/F25093/29838750/165105
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="MOTOGP-F1",SpoTV 2
