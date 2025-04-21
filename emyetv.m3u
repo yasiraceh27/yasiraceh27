@@ -416,7 +416,8 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 ====MOTOGP-F1==================================================================================================================================================================================================
 
-#EXTM3U refresh="1440" max-conn="1" refresh="24"
+#EXTINF:-1 tvg-id="" tvg-name="[ES] MOVISTAR MOTOGP | UHD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MOTOGPHD.png" group-title="MOTOGP-F1",[ES] MOVISTAR MOTOGP | UHD
+http://supersonictv.live:8080/051778/805424/85946
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV| MotoGP: Main Race" tvg-logo="https://lo1.in/it/mtgp.png" group-title="MOTOGP-F1",PPV| MotoGP: Main Race
 #http://extraott.com:900/live/3162523972/3791698850/5292.m3u8
