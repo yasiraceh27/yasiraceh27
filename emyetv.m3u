@@ -406,6 +406,33 @@ https://7pal.short.gy/skyspt7nz
 https://7pal.short.gy/skyspt8nz
 
 
+
+#EXTINF:-1 tvg-id="UK: SkySp Racing" tvg-name="UK Sky Sport Racing HD" tvg-logo="https://1.bp.blogspot.com/-JGqN-L9KhIQ/WMBKT4-R3rI/AAAAAAAADUs/bY3a0dLMsc8SI_cSfylUfR71LUsopzwTACLcB/s1600/racing-hd.jpg" group-title="eMYeSport",UK Sky Sport Racing HD
+http://supersonictv.live:8080/051778/805424/78145
+#EXTINF:-1 tvg-id="UK: SkySp Action" tvg-name="UK Sky Sports Action" tvg-logo="https://sekdrive.net/wp-content/uploads/2018/08/Sky-Sports-Action-HD-UK-1-1280x720.png" group-title="eMYeSport",UK Sky Sports Action
+http://supersonictv.live:8080/051778/805424/78146
+#EXTINF:-1 tvg-id="UK: SkySp Arena" tvg-name="UK Sky Sports Arena HD" tvg-logo="https://www.webtv.so/uploads/images/channel_141_1516257859_thumb.png" group-title="eMYeSport",UK Sky Sports Arena HD
+http://supersonictv.live:8080/051778/805424/78147
+#EXTINF:-1 tvg-id="UK: SkySp Cricket" tvg-name="UK Sky Sports Cricket" tvg-logo="https://sportsjournalism.myblog.arts.ac.uk/files/2015/01/JpMroqIH.png" group-title="eMYeSport",UK Sky Sports Cricket
+http://supersonictv.live:8080/051778/805424/78148
+#EXTINF:-1 tvg-id="UK: SkySp F1" tvg-name="UK Sky Sports F1" tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2016/01/Sky-Sport-F1-HD-IT-CMYK-267136.jp" group-title="eMYeSport",UK Sky Sports F1
+http://supersonictv.live:8080/051778/805424/78149
+#EXTINF:-1 tvg-id="UK: SkySp Football" tvg-name="UK Sky Sports Football HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="eMYeSport",UK Sky Sports Football HD
+http://supersonictv.live:8080/051778/805424/78150
+#EXTINF:-1 tvg-id="UK: SkySp Golf HD" tvg-name="UK Sky Sports Golf HD" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png" group-title="eMYeSport",UK Sky Sports Golf HD
+http://supersonictv.live:8080/051778/805424/78151
+#EXTINF:-1 tvg-id="UK: SkySpMainEv" tvg-name="UK Sky Sports Main Events HD" tvg-logo="https://4.bp.blogspot.com/-6fz4IHYpdg8/WzWW31npvGI/AAAAAAAAAUg/oIwjzlSngxAaUS9EdGQna-LvJBglsmxVgCLcBGAs/s320/download.png" group-title="eMYeSport",UK Sky Sports Main Events HD
+http://supersonictv.live:8080/051778/805424/78152
+#EXTINF:-1 tvg-id="UK: SkySp Mix HD" tvg-name="UK Sky Sports MIX" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/03/Sky-Sports-Mix.jpg" group-title="eMYeSport",UK Sky Sports MIX
+http://supersonictv.live:8080/051778/805424/78153
+#EXTINF:-1 tvg-id="UK: SkySp News HD" tvg-name="UK Sky Sports News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Sky_Sport_News_HD_Logo_2016.png" group-title="eMYeSport",UK Sky Sports News HD
+http://supersonictv.live:8080/051778/805424/78154
+#EXTINF:-1 tvg-id="UK: SkySp PL" tvg-name="UK Sky Sports Premier League HD" tvg-logo="https://www.sportda.com/wp-content/uploads/2018/10/SKY-SPORTS-PREMIER-LEAGUE-HD.png" group-title="eMYeSport",UK Sky Sports Premier League HD
+http://supersonictv.live:8080/051778/805424/78155
+#EXTINF:-1 tvg-id="UK: SkySp Racing" tvg-name="UK Sky Sports Racing" tvg-logo="https://static1.squarespace.com/static/5767bd2120099e297415297a/t/5cdaa9b724a694cb4996e3f2/1557834178044/Sky+Sports+Racing+Logo+Square.png" group-title="eMYeSport",UK Sky Sports Racing
+
+
+
 #EXTINF:-1 group-title="eMYeSport" tvg-logo="http://ktv.im:8080/images/17e23e50bedc63b4095e3d8204ce063b.png" tvg-id="TNTSports1.uk" ,TNT SPORTS 1
 http://ktv.im:8080/873747737/637763736/1159
 
