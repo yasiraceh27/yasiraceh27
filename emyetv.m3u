@@ -491,6 +491,8 @@ http://ktvs.xyz:8080/000113322/12451245/299094
 http://supersonictv.live:8080/051778/805424/78936
 #EXTINF:-1 tvg-id="US: FS2" tvg-name="USA Fox Sports 2 UHD" tvg-logo="https://www.pngitem.com/pimgs/m/394-3949767_fox-sports-fox-sport-2-logo-png-transparent.png" group-title="MOTOGP-F1",USA Fox Sports 2 UHD
 http://supersonictv.live:8080/051778/805424/78937
+#EXTINF:-1 tvg-id="CA: FOX SPORTS RACING" tvg-name="CA Fox Sports Racing" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/SkySportsRacing.jpg" group-title="MOTOGP-F1",CA Fox Sports Racing
+http://supersonictv.live:8080/051778/805424/40462
 
 ====LAIN2=====================================================================================================================================================================================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/kids/aniplus.jpeg" group-title="LAIN2",Aniplus
