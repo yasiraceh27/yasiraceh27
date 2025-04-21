@@ -493,6 +493,15 @@ https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="MOTOGP-F1"  tvg-logo="https://shorturl.at/MjtCq",TNT Sport 4 (FHD)
 https://7pal.short.gy/tntspts4
 
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="LEAG: TNT SPORTS 1" tvg-logo="http://ktv.im:8080/images/17e23e50bedc63b4095e3d8204ce063b.png" group-title="MOTOGP-F1",LEAG: TNT SPORTS 1
+http://tigerott.com:8080/ziad87/4zpuj8xZmT/1159
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="LEAG: TNT SPORTS 2" tvg-logo="http://ktv.im:8080/images/c88ef77891ae398798330c92da774dc9.png" group-title="MOTOGP-F1",LEAG: TNT SPORTS 2
+http://tigerott.com:8080/ziad87/4zpuj8xZmT/1161
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="LEAG: TNT SPORT 2 HD" tvg-logo="http://ktv.im:8080/images/c88ef77891ae398798330c92da774dc9.png" group-title="MOTOGP-F1",LEAG: TNT SPORT 2 HD
+http://tigerott.com:8080/ziad87/4zpuj8xZmT/1162
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="LEAG: TNT SPORTS 3" tvg-logo="http://ktv.im:8080/images/fd456406745d816a45cae554c788e754.png" group-title="MOTOGP-F1",LEAG: TNT SPORTS 3
+http://tigerott.com:8080/ziad87/4zpuj8xZmT/1163
+
 #EXTINF:-1 tvg-id="" tvg-name="||FR. CANAL+ MOTOGP FHD" tvg-logo="" group-title="MOTOGP-F1",||FR. CANAL+ MOTOGP FHD
 http://ktvs.xyz:8080/000113322/12451245/111131
 #EXTINF:-1 tvg-id="" tvg-name="|FR. CANAL+ MOTOGP 4K" tvg-logo="" group-title="MOTOGP-F1",|FR. CANAL+ MOTOGP 4K
