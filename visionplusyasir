@@ -47,28 +47,28 @@ https://av-ch-cdn.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 #EXTINF:-1 group-title="VISION+" tvg-logo="999", 14 TV One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 15
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 15 MetroTv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 16
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 16 KompasTv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/KompasTV/sa_dash/KompasTV.mpd
 #EXTINF:-1 group-title="VISION+" tvg-logo="999", 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 18
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 18 RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 19
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 19 TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash/PemersatuBangsa.mpd
 #EXTINF:-1 group-title="VISION+" tvg-logo="999", 20
 https://av-ch-cdn.mncnow.id/live/eds/JakTV/sa_dash/JakTV.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 21
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 21 DAAI Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/DAAITV/sa_dash/DAAITV.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 22
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 22 Bandung Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/BandungTV/sa_dash/BandungTV.mpd
 #EXTINF:-1 group-title="VISION+" tvg-logo="999", 23
@@ -79,16 +79,16 @@ Movies
 #EXTINF:-1 group-title="VISION+" tvg-logo="999", 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/UniversalHD/sa_dash/UniversalHD.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 25
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 25 Galaxy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 26
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 26 Galaxy Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 27
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 27 IMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 28
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 28 Rock Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/Rockaction/sa_dash/Rockaction.mpd
 #EXTINF:-1 group-title="VISION+" tvg-logo="999", 29
@@ -103,119 +103,119 @@ https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD
 #EXTINF:-1 group-title="VISION+" tvg-logo="999", 32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 33
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 33 CINEEDGE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 34
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 34 THRILL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 35
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 35 CELESTIAL MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash/CelestialMovie.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 36
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 36 CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash/CelestialClassic.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 37
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 37 Z BIOSKOP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 38
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 38 TVN MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 39
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 39 HIT MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
 
 Entertaintment
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 40
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 40 ANIMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/Animax/sa_dash/Animax.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 41
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 41 OKTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/OKTVnow/sa_dash/OKTVnow.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 42
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 42 MNC ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 43
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 43 TVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/tvN/sa_dash/tvN.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 44
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 44 SET ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/SetOne/sa_dash/SetOne.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 45
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 45 KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/KIX/sa_dash/KIX.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 46
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 46 HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/HITS/sa_dash/HITS.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 47
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 47 AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 48
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 48 LIFETIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/Lifetime/sa_dash/Lifetime.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 49
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 49 VISION PRIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 50
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 50 ROCK ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash/Rockentertainment.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 51
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 51 NHK WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash/NHKWorldTV.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 52
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 52 TV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/TV5now/sa_dash/TV5now.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 53
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 53 AUSTRALIAN PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 54
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 54 ARIRANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/Arirang/sa_dash/Arirang.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 55
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 55 JIANGSU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 56
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 56 HUNAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/HunanTV/sa_dash/HunanTV.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 57
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 57 SANGHAI DRAGON TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 58
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 58 XINGKONG TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/XingKongTVnow/sa_dash/XingKongTVnow.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 59
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 59 ANHUI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash/AnhuiTV.mpd
 
 News
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 60
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 60 METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 61
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 61 KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/KompasTV/sa_dash/KompasTV.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 62
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 62 TV ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 63
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 63 BERITA SATU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 64
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 64 MNC NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 65
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 65 IDX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash/IDX.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 66
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 66 SEA CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 67
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 67 JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 68
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 68 CNBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/CNBC/sa_dash/CNBC.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 69
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 69 ASIAN NOW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/ChannelNewsAsianow/sa_dash/ChannelNewsAsianow.mpd
 #EXTINF:-1 group-title="VISION+" tvg-logo="999", 70
@@ -262,7 +262,7 @@ https://av-ch-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash/CrimeInvestigati
 #EXTINF:-1 group-title="VISION+" tvg-logo="999", 83
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd
-#EXTINF:-1 group-title="VISION+" tvg-logo="999", 84
+#EXTINF:-1 group-title="VISION+" tvg-logo="999", 84 HISTORY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://av-ch-cdn.mncnow.id/live/eds/History/sa_dash/History.mpd
 #EXTINF:-1 group-title="VISION+" tvg-logo="999", 85
