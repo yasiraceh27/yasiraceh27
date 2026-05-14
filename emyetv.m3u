@@ -187,13 +187,6 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 #KODIPROP:inputstream.adaptive.license_key=ffc555c120261e93a09cedcc9ccb541c:28acbfe596ae377c78330c7e0034817f
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
-
-
-
-
-
-
-
 #EXTM3U
 
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="eMYeSport",FIFA+ Italy (720p)
@@ -226,8 +219,6 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-id="DAZNCombat.uk@Poland" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="eMYeSport",DAZN Combat (1080p)
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="NFLRedZone.us@SD" tvg-logo="https://i.imgur.com/5lPqQj5.png" group-title="eMYeSport",NFL RedZone (720p)
-https://tvpass.org/live/NFLRedZone/hd
 
 #EXTINF:-1 tvg-id="SkyNewsExtra1.au@SD" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News Extra 1 (540p)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
@@ -238,17 +229,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 #EXTINF:-1 tvg-id="SkyNewsExtra3.au@SD" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News Extra 3 (1080p)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
-#EXTINF:-1 tvg-id="SkyRacing1.au@SD" tvg-logo="https://i.imgur.com/Hf0EiaW.png" group-title="eMYeSport",Sky Racing 1 (720p)
-https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
-
-#EXTINF:-1 tvg-id="SkyRacing2.au@SD" tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="eMYeSport",Sky Racing 2 (720p)
-https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
-
-#EXTINF:-1 tvg-id="SkyThoroughbredCentral.au@SD" tvg-logo="https://i.imgur.com/1SxIsnw.png" group-title="eMYeSport",Sky Thoroughbred Central (720p)
-https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
-
-#EXTINF:-1 tvg-id="F1Channel.ie@US" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="eMYeSport",F1 Channel (1080p)
-https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JSPORTS1.jp@SD" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="eMYeSport",J Sports 1 (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
@@ -277,8 +257,6 @@ https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="RedBullTV.at@ES" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="eMYeSport",Red Bull TV ES (1080p)
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedBullTV.at@BR" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="eMYeSport",Red Bull TV BR (1080p)
-https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV.at@AU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="eMYeSport",Red Bull TV AU (1080p)
 https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
@@ -289,283 +267,23 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="SportsConnect.za@SD" tvg-logo="https://i.imgur.com/0sNWg54.png" group-title="eMYeSport",Sports Connect (720p)
 https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
 
-#EXTINF:-1 tvg-id="AnimaxAsia.sg@India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" group-title="eMYeSport",Animax Asia India (1080p)
-https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CricketGold.au@SD" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="eMYeSport",Cricket Gold (1080p)
-https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
-
-#EXTINF:-1 tvg-id="ERTSports1.gr@HD" tvg-logo="https://i.imgur.com/EsczO2H.png" group-title="eMYeSport",ERT Sports 1 (1080p)
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
-
-#EXTINF:-1 tvg-id="ERTSports2.gr@HD" tvg-logo="https://i.imgur.com/b2SNQPi.png" group-title="eMYeSport",ERT Sports 2 (1080p)
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
-
-#EXTINF:-1 tvg-id="FightNetwork.ca@SD" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="eMYeSport",Fight Network (1080p)
-https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="eMYeSport" referrer="https://foxsports.com.ar/",Fox Sports (1080p)
 #EXTVLCOPT:http-referrer=https://foxsports.com.ar/
 
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBATVCanada.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png" group-title="eMYeSport",NBA TV Canada (1080p)
-http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
-
-#EXTINF:-1 tvg-id="Racingcom.au@SD" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="eMYeSport",Racing.com (720p)
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-
-#EXTINF:-1 tvg-id="SkyRacing1.au@SD" tvg-logo="https://i.imgur.com/Hf0EiaW.png" group-title="eMYeSport",Sky Racing 1 (720p)
-https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
-
-#EXTINF:-1 tvg-id="SkyRacing2.au@SD" tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="eMYeSport",Sky Racing 2 (720p)
-https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
-
-#EXTINF:-1 tvg-id="SkyThoroughbredCentral.au@SD" tvg-logo="https://i.imgur.com/1SxIsnw.png" group-title="eMYeSport",Sky Thoroughbred Central (720p)
-https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
-
-#EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="eMYeSport",TSN1 (1080p)
-https://tvpass.org/live/tsn1/hd
-
-#EXTINF:-1 tvg-id="TSN2.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png" group-title="eMYeSport",TSN2 (1080p)
-https://tvpass.org/live/tsn2/hd
-
-#EXTINF:-1 tvg-id="TSN3.ca@SD" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="eMYeSport",TSN3 (1080p)
-https://tvpass.org/live/tsn3/hd
-
-#EXTINF:-1 tvg-id="TSN4.ca@SD" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="eMYeSport",TSN4 (720p)
-https://tvpass.org/live/tsn4/hd
-
-#EXTINF:-1 tvg-id="TSN5.ca@SD" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="eMYeSport",TSN5 (1080p)
-https://tvpass.org/live/tsn5/hd
 
 #EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="eMYeSport",TSN The Ocho (1080p)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-
-#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="eMYeSport",TyC Sports (1080p)
-https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
-
-#EXTINF:-1 channel-id="CA2900012S9" tvg-id="CA2900012S9" tvg-chno="2350" tvg-name="UFC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2900012S9_20250729T185445SQUARE.png" group-title="eMYeSport",UFC
-https://jmp2.uk/stvp-CA2900012S9
-
-#EXTINF:-1 group-title="eMYeSport"  tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",Max Sports
-https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-url="https://epg.pw/api/epg.json?lang=en&date=20260316&channel_id=412947" tvg-logo="https://object-streamo.emonaja.com/img/skysportsf1.webp" group-title="eMYeSport", Sky Sports F1 (United Kingdom)
-https://7pal.short.gy/ssportsf1
-https://a1xs.vip/2000005
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.json?lang=en&date=20260316&channel_id=412947" tvg-logo="https://object-streamo.emonaja.com/img/skysportsf1.webp" group-title="eMYeSport", Sky Sports F1 (Germany)
 http://ott.premium-tv.org:80/live/wonton57/874893/89667.m3u8
 
-#EXTINF:-1 group-title="eMYeSport" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN
-http://hydratv.pro/live/Mah2/432266432/415747.ts
-
-#EXTINF:-1 group-title="eMYeSport" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2
-http://hydratv.pro/live/Mah2/432266432/415746.ts
-
-#EXTINF:-1 group-title="eMYeSport" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 3
-http://hydratv.pro/live/Mah2/432266432/415745.ts
-
-#EXTINF:-1 group-title="eMYeSport" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4
-http://hydratv.pro/live/Mah2/432266432/406820.ts
-
-#EXTINF:-1 group-title="eMYeSport" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 5
-http://hydratv.pro/live/Mah2/432266432/415743.ts
-
-#EXTINF:-1 group-title="eMYeSport" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 6
-http://hydratv.pro/live/Mah2/432266432/415742.ts
-
-#EXTINF:-1 group-title="eMYeSport" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7
-http://hydratv.pro/live/Mah2/432266432/415741.ts
-
-#EXTINF:-1 group-title="eMYeSport" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8
-http://hydratv.pro/live/Mah2/432266432/415740.ts
-
-#EXTINF:-1 group-title="eMYeSport" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9
-http://hydratv.pro/live/Mah2/432266432/415739.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="eMYeSport",Sportv 1
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="eMYeSport",Sportv 2
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="eMYeSport",Sportv 3
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="eMYeSport",Sportv 4
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="eMYeSport",Sportv 5
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="eMYeSport",Sportv 6
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="eMYeSport",Sportv 7
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv7.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="eMYeSport",Alwan Sport
-http://hydratv.pro/live/Mah2/432266432/575344.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="eMYeSport",Alwan Sport 2
-http://hydratv.pro/live/Mah2/432266432/575343.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="eMYeSport",Alwan Sport 3
-http://hydratv.pro/live/Mah2/432266432/575342.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="eMYeSport",Alwan Sport 4
-http://hydratv.pro/live/Mah2/432266432/575341.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="eMYeSport",Alwan Sport 5
-http://hydratv.pro/live/Mah2/432266432/575340.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="eMYeSport",Alwan Sport 6
-http://hydratv.pro/live/Mah2/432266432/575339.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="eMYeSport",Sportv 1
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="eMYeSport",Sportv 2
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="eMYeSport",Sportv 3
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="eMYeSport",Sportv 4
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="eMYeSport",Sportv 5
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="eMYeSport",Sportv 6
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="eMYeSport",Sportv 7
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv7.m3u8
-
-#EXTINF:-1 group-title="eMYeSport" tvg-logo="https://i.postimg.cc/rpH4wLYF/Yes-Logo.jpg",Yes Sport
-http://hydratv.pro/live/Mah2/432266432/472844.ts
-
-#EXTINF:-1 group-title="eMYeSport" tvg-logo="https://i.postimg.cc/rpH4wLYF/Yes-Logo.jpg",Yes Sport 2
-http://hydratv.pro/live/Mah2/432266432/472842.ts
-
-#EXTINF:-1 group-title="eMYeSport" tvg-logo="https://i.postimg.cc/rpH4wLYF/Yes-Logo.jpg",Yes Sport 3
-http://hydratv.pro/live/Mah2/432266432/472840.ts
-
-#EXTINF:-1 group-title="eMYeSport" tvg-logo="https://i.postimg.cc/rpH4wLYF/Yes-Logo.jpg",Yes Sport 4
-http://hydratv.pro/live/Mah2/432266432/472838.ts
 
 
-#EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="|UK| PREMIER SPORTS 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="eMYeSport",|UK| PREMIER SPORTS 1 ᵁᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/54878
-#EXTINF:-1 tvg-ID="premiersports2.uk" tvg-name="|UK| PREMIER SPORTS 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="eMYeSport",|UK| PREMIER SPORTS 2 ᵁᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/54879
-#EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="|UK| PREMIER SPORTS 3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="eMYeSport",|UK| PREMIER SPORTS 3 ᵁᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/54885
-#EXTINF:-1 tvg-ID="" tvg-name="|UK| TNT Sport Ultimate ULTRA ᵁᴴᴰ" tvg-logo="" group-title="eMYeSport",|UK| TNT Sport Ultimate ULTRA ᵁᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/522060
-#EXTINF:-1 tvg-ID="tntsports1.uk" tvg-name="|UK| TNT SPORTS 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/TNTSPORTS.png" group-title="eMYeSport",|UK| TNT SPORTS 1 ᵁᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/309615
-#EXTINF:-1 tvg-ID="tntsports1.uk" tvg-name="|UK|  TNT SPORT 1" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="eMYeSport",|UK|  TNT SPORT 1
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/77413
-#EXTINF:-1 tvg-ID="tntsports2.uk" tvg-name="|UK| TNT SPORTS 2 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/TNTSPORTS.png" group-title="eMYeSport",|UK| TNT SPORTS 2 ᵁᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/309616
-#EXTINF:-1 tvg-ID="tntsports2.uk" tvg-name="|UK|  TNT SPORT 2" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="eMYeSport",|UK|  TNT SPORT 2
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/77414
-#EXTINF:-1 tvg-ID="tntsports3.uk" tvg-name="|UK| TNT SPORTS 3 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/TNTSPORTS.png" group-title="eMYeSport",|UK| TNT SPORTS 3 ᵁᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/309617
-#EXTINF:-1 tvg-ID="tntsports3.uk" tvg-name="|UK| TNT SPORT  3" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="eMYeSport",|UK| TNT SPORT  3
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/77415
-#EXTINF:-1 tvg-ID="tntsports4.uk" tvg-name="|UK| TNT SPORTS 4 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/TNTSPORTS.png" group-title="eMYeSport",|UK| TNT SPORTS 4 ᵁᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/309618
-#EXTINF:-1 tvg-ID="tntsports4.uk" tvg-name="|UK| TNT SPORTS 4" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="eMYeSport",|UK| TNT SPORTS 4
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/10510
-#EXTINF:-1 tvg-ID="tntsportboxoffice1.uk" tvg-name="|UK| TNT SPORTS BOX OFFICE ᵁᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/TNT_Sports_Box_Office.jpeg" group-title="eMYeSport",|UK| TNT SPORTS BOX OFFICE ᵁᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/484345
-#EXTINF:-1 tvg-ID="tntsportboxoffice1.uk" tvg-name="|UK| TNT SPORTS BOX OFFICE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/TNT_Sports_Box_Office.jpeg" group-title="eMYeSport",|UK| TNT SPORTS BOX OFFICE ᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/484352
-#EXTINF:-1 tvg-ID="tntsportboxoffice1.uk" tvg-name="|UK|  TNT SPORTS BOX OFFICE ˢᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/TNT_Sports_Box_Office.jpeg" group-title="eMYeSport",|UK|  TNT SPORTS BOX OFFICE ˢᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/484356
-#EXTINF:-1 tvg-ID="" tvg-name="PPV| SKY BOX OFFICE 1 [EVENT ONLY] ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Sky_Sports_Box_Office.png" group-title="eMYeSport",PPV| SKY BOX OFFICE 1 [EVENT ONLY] ᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1149027
-#EXTINF:-1 tvg-ID="" tvg-name="PPV| SKY BOX OFFICE 1 [EVENT ONLY] Sᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Sky_Sports_Box_Office.png" group-title="eMYeSport",PPV| SKY BOX OFFICE 1 [EVENT ONLY] Sᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1149028
-#EXTINF:-1 tvg-ID="" tvg-name="|UK| LA LIGATV ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/LALIGATV.png" group-title="eMYeSport",|UK| LA LIGATV ᵁᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/309460
-#EXTINF:-1 tvg-ID="" tvg-name="|UK| LA LIGATV ᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/LALIGATV.png" group-title="eMYeSport",|UK| LA LIGATV ᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/511024
-#EXTINF:-1 tvg-ID="dazn1.uk" tvg-name="|UK| DAZN PPV FHD" tvg-logo="http://138.199.27.237:8080/UK/DAZNPPV.png" group-title="eMYeSport",|UK| DAZN PPV FHD
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/302936
-#EXTINF:-1 tvg-ID="" tvg-name="|UK| DAZN RED BULL TV" tvg-logo="http://138.199.27.237:8080/UK/REDBULLTV.png" group-title="eMYeSport",|UK| DAZN RED BULL TV
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/250299
-#EXTINF:-1 tvg-ID="" tvg-name="|UK| DAZN UNBEATEN" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="eMYeSport",|UK| DAZN UNBEATEN
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/403782
-#EXTINF:-1 tvg-ID="92news.uk" tvg-name="|UK| BEIN SPORT" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="eMYeSport",|UK| BEIN SPORT
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/403757
-#EXTINF:-1 tvg-ID="" tvg-name="|UK| BEIN SPORT 2" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="eMYeSport",|UK| BEIN SPORT 2
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/403758
-#EXTINF:-1 tvg-ID="" tvg-name="|UK| BEIN SPORT 3" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="eMYeSport",|UK| BEIN SPORT 3
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/403759
-#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL ᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSFOOTBALL.png" group-title="eMYeSport",|UK| SKY SPORTS FOOTBALL ᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/10516
-#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="|UK| SKY SPORTS NEWS ᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSNEWS.png" group-title="eMYeSport",|UK| SKY SPORTS NEWS ᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/10512
-#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="|UK| SKY SPORTS RACING ᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSRACING.png" group-title="eMYeSport",|UK| SKY SPORTS RACING ᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/48169
-#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="|UK| SKY SPORTS CRICKET ᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSCRICKET.png" group-title="eMYeSport",|UK| SKY SPORTS CRICKET ᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/10527
-#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="|UK| SKY SPORTS CRICKET ˢᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSCRICKET.png" group-title="eMYeSport",|UK| SKY SPORTS CRICKET ˢᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/10526
-#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="|UK| SKY SPORTS F1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSF1.png" group-title="eMYeSport",|UK| SKY SPORTS F1 ᵁᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/303265
-#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="|UK| SKY SPORTS F1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSF1.png" group-title="eMYeSport",|UK| SKY SPORTS F1 ᵁᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/50276
-#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="|UK| SKY SPORTS F1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSF1.png" group-title="eMYeSport",|UK| SKY SPORTS F1 ᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/10525
-#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="|UK| SKY SPORTS ARENA ᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSARENA.png" group-title="eMYeSport",|UK| SKY SPORTS ARENA ᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/10528
-#EXTINF:-1 tvg-ID="skysportsnfl.uk" tvg-name="|UK| SKY SPORTS NFL ᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSNFL.png" group-title="eMYeSport",|UK| SKY SPORTS NFL ᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/10529
-#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="|UK| SKY SPORTS PREMIER LEAGUE ᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSPREMIERLEAGUE.png" group-title="eMYeSport",|UK| SKY SPORTS PREMIER LEAGUE ᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/10511
-#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="|UK| SKY SPORTS ᵁᴴᴰ PREMIER LEAGUE" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSPREMIERLEAGUE.png" group-title="eMYeSport",|UK| SKY SPORTS ᵁᴴᴰ PREMIER LEAGUE
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/10517
-#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="|UK| SKY SPORTS MAIN EVENT ᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSMAINEVENT.png" group-title="eMYeSport",|UK| SKY SPORTS MAIN EVENT ᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/10514
-#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="|UK| SKY SPORTS ᵁᴴᴰ MAIN EVENT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSMAINEVENT.png" group-title="eMYeSport",|UK| SKY SPORTS ᵁᴴᴰ MAIN EVENT ᵁᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/10518
-#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="|UK| SKY SPORTS GOLF ᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSGOLF.png" group-title="eMYeSport",|UK| SKY SPORTS GOLF ᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/10515
-#EXTINF:-1 tvg-ID="skysportsnfl.uk" tvg-name="|UK| SKY SPORTS NFL" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSNFL.png" group-title="eMYeSport",|UK| SKY SPORTS NFL
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/91620
-#EXTINF:-1 tvg-ID="skysportstennis.uk" tvg-name="UK Sky Sports Tennis ᵁᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/2560px-Sky_Sport_Tennis.svg.png" group-title="eMYeSport",UK Sky Sports Tennis ᵁᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/605469
-#EXTINF:-1 tvg-ID="skysportstennis.uk" tvg-name="UK Sky Sports Tennis ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/2560px-Sky_Sport_Tennis.svg.png" group-title="eMYeSport",UK Sky Sports Tennis ᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/605470
-#EXTINF:-1 tvg-ID="skysportstennis.uk" tvg-name="UK Sky Sports Tennis ᵁᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/2560px-Sky_Sport_Tennis.svg.png" group-title="eMYeSport",UK Sky Sports Tennis ᵁᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/605472
-#EXTINF:-1 tvg-ID="skysportstennis.uk" tvg-name="UK Sky Sports Tennis ˢᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/2560px-Sky_Sport_Tennis.svg.png" group-title="eMYeSport",UK Sky Sports Tennis ˢᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/605471
-#EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="|UK| PREMIER SPORTS ᴴᴰ" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="eMYeSport",|UK| PREMIER SPORTS ᴴᴰ
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/10506
-#EXTINF:-1 tvg-ID="skysportsnfl.uk" tvg-name="|UK| SKY SPORTS ᵁᴴᴰ NFL" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSNFL.png" group-title="eMYeSport",|UK| SKY SPORTS ᵁᴴᴰ NFL
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/10524
-#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="|UK| LFC TV ᵁᴴᴰ (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="eMYeSport",|UK| LFC TV ᵁᴴᴰ (D)
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/54897
-#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="|UK| LIVERPOOL FC TV" tvg-logo="http://138.199.27.237:8080/UK/LIVERPOOL.png" group-title="eMYeSport",|UK| LIVERPOOL FC TV
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/91624
-#EXTINF:-1 tvg-ID="" tvg-name="|UK| Rangers" tvg-logo="http://138.199.27.237:8080/UK/RANGERS.png" group-title="eMYeSport",|UK| Rangers
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/91617
-#EXTINF:-1 tvg-ID="" tvg-name="|ID|  SPOTV 2" tvg-logo="https://seeklogo.com/vector-logo/410832/spo-tv-2" group-title="eMYeSport",SPOTV 2
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1165868
-#EXTINF:-1 tvg-ID="" tvg-name="|ID|  SPOTV" tvg-logo="https://id.wikipedia.org/wiki/Berkas:SPOTV_logo.svg" group-title="eMYeSport",SPOTV
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1165867
-#EXTINF:-1 tvg-ID="" tvg-name="|ID|  Soccer Channel-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/86/Logo_Soccer_Channel.png" group-title="eMYeSport",Soccer Channel-HD
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1165864
+
 
 
 
