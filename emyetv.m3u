@@ -254,9 +254,261 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://ott.premium-tv.org:80/live/wonton57/874893/89667.m3u8
 
 
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="UHD | 4K", 🇵🇱 ElevenSport 1 UHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/20068/index.m3u8
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="UHD | 4K", 🇵🇱 ElevenSport 1 UHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/20068/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="UHD | 4K" tvg-logo="https://i.imgur.com/36EL7oi.png", 🇬🇧 Eurosport 1 UHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19432/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="UHD | 4K" tvg-logo="https://i.imgur.com/36EL7oi.png", 🇬🇧 Eurosport 1 UHD 25fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/19432/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="UHD | 4K" tvg-logo="https://i.imgur.com/u7QrAyh.png", 🇬🇧 Eurosport 2 UHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19431/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="UHD | 4K" tvg-logo="https://i.imgur.com/u7QrAyh.png", 🇬🇧 Eurosport 2 UHD 25fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/19431/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/UlwVQr4.png", Sky Sports Main Event FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/9308/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/UlwVQr4.png", Sky Sports Main Event FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/9308/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/UlwVQr4.png", Sky Sports Main Event FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7337/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/UlwVQr4.png", Sky Sports Main Event FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7337/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.HD.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/jUNWDBA.png", Sky Sports Premier League FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/9334/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.HD.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/jUNWDBA.png", Sky Sports Premier League FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/9334/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/jUNWDBA.png", Sky Sports Premier League FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7335/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/jUNWDBA.png", Sky Sports Premier League FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7335/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/0T40zcs.png", Sky Sports Football FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/9289/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/0T40zcs.png", Sky Sports Football FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/9289/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/0T40zcs.png", Sky Sports Football FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7336/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie" group-title="🇬🇧 Sky Sports" tvg-logo="https://i.imgur.com/0T40zcs.png", Sky Sports Football FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/7336/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6566/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/6566/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2505/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.1.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/V3qfxeG.png", TNT Sports 1 FHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2505/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2506/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.2.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/Qq5D6bY.png", TNT Sports 2 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2506/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.3.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/YIWGDix.png", TNT Sports 3 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6564/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.4.ie" group-title="🇬🇧 TNT Sports" tvg-logo="https://i.imgur.com/KJZszMA.png", TNT Sports 4 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19054/index.m3u8
+#EXTINF:-1 tvg-id="FS1.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/Wwsojdh.png", Fox Sports 1 FHD 60fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7322/index.m3u8
+#EXTINF:-1 tvg-id="FS2.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/BmxkGDe.png", Fox Sports 2 FHD 60fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7323/index.m3u8
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/1lFfKR4.png", USA Network HD 30fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/1101/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="🇺🇸 US Sports" tvg-logo="https://i.imgur.com/EWFAXAY.png", CBS Sports Network FHD 60fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7324/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport News HD DE (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2477/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport 1 HD DE (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2478/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport 2 HD DE (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2479/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport Austria 1 HD DE (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2492/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport Austria 2 HD DE (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6113/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport Bundesliga Austria HD DE (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7242/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 1 HD [de] (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2480/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 2 HD [de] (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7234/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 3 FHD 50fps [de] (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7237/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 4 HD DE (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7236/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 5 HD DE (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7235/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 6 HD DE (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7238/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 7 HD DE (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7239/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 8 HD DE (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7240/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 9 FHD DE (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6097/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="https://i.imgur.com/C1Z3orh.png", Sky Sport Bundesliga 9 HD DE (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7241/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sky Sports 🇩🇪" tvg-logo="", Sky Sport F1 FHD DE (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/10079/index.m3u8
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="🇵🇱 Eleven Sports", 🇵🇱 ElevenSport 1 UHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/20068/index.m3u8
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="🇵🇱 Eleven Sports", 🇵🇱 ElevenSport 1 UHD 50fps (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/20068/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/4Rq6kRB.png", DAZN 1 HD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31954/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 HD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2532/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/mrUt8LC.png", DAZN 2 HD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31955/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7062/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/Nuy9JzZ.png", DAZN 3 HD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31956/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2534/index.m3u8
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-title="🇵🇹 DAZN" tvg-logo="https://i.imgur.com/azR9uiE.png", DAZN 4 HD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31957/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31942/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 HD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2525/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/7bl3LyY.png", Sport TV 1 HD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2525/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/9NktQrQ.png", Sport TV 2 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31943/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/9NktQrQ.png", Sport TV 2 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2526/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/9NktQrQ.png", Sport TV 2 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2526/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2527/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2527/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/p2gpIWt.png", Sport TV 3 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31944/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/o5RjQBz.png", Sport TV 4 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31945/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/o5RjQBz.png", Sport TV 4 FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2528/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/o5RjQBz.png", Sport TV 4 FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2528/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31946/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 HD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2529/index.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="🇵🇹 Sport TV" tvg-logo="https://i.imgur.com/gdJSVCj.png", Sport TV 5 HD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2529/index.m3u8
+#EXTINF:-1 tvg-id="Canal+.Sport.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/L7qETwp.png" , 🇵🇱 CANAL+ Sport FHD (bk1)
+http://cwx6kmfd.otttv.pw/iptv/SZZ2LTTQ7Y9KPGCDB2G4ENGH/6098/index.m3u8
+#EXTINF:-1 tvg-id="3129" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/L7qETwp.png" , 🇵🇱 CANAL+ Sport FHD (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/6098/index.m3u8
+#EXTINF:-1 tvg-id="Canal+.Sport.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/L7qETwp.png" , 🇵🇱 CANAL+ Sport FHD (bk3)
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6098/index.m3u8
+#EXTINF:-1 tvg-id="Canal+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/ZaXj2Bf.png" , 🇵🇱 CANAL+ Sport 2 FHD (bk1)
+http://cwx6kmfd.otttv.pw/iptv/SZZ2LTTQ7Y9KPGCDB2G4ENGH/6099/index.m3u8
+#EXTINF:-1 tvg-id="3058" group-title="🇫🇷 Canal+" tvg-logo="http://epg.one/img/3058.png" , 🇵🇱 CANAL+ Sport 2 FHD (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/6099/index.m3u8
+#EXTINF:-1 tvg-id="Canal+.Sport.2.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/ZaXj2Bf.png" , 🇵🇱 CANAL+ Sport 2 FHD (bk3)
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/6099/index.m3u8
+#EXTINF:-1 tvg-id="CANAL+.Sport.5.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/FWGWZJx.png" , 🇵🇱 Canal+ Sport 5 FHD (bk1)
+http://cwx6kmfd.otttv.pw/iptv/SZZ2LTTQ7Y9KPGCDB2G4ENGH/2519/index.m3u8
+#EXTINF:-1 tvg-id="2903" group-title="🇫🇷 Canal+" tvg-logo="http://epg.one/img/2903.png" , 🇵🇱 Canal+ Sport 5 FHD (bk2)
+http://ba261103.amazzin.pw/iptv/FL2GCU2LDY5AKD5W238M8TF8/2519/index.m3u8
+#EXTINF:-1 tvg-id="CANAL+.Sport.5.HD.pl" group-title="🇫🇷 Canal+" tvg-logo="https://i.imgur.com/FWGWZJx.png" , 🇵🇱 Canal+ Sport 5 FHD (bk3)
+http://moilist.ottolok.net/iptv/FX8YANKAXDBBEM/2519/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/F0dO4SX.png", ESPN (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19156/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" group-title="ESPN" tvg-logo="https://i.imgur.com/WlgF5Wg.png", ESPN 2 (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19155/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.br" group-title="ESPN" tvg-logo="https://i.imgur.com/TaJnRoM.png", ESPN Brazil (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19056/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.br" group-title="ESPN" tvg-logo="https://i.imgur.com/WlgF5Wg.png", ESPN 2 Brazil (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19061/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/HKfUqi7.png", 🇫🇷 beIN SPORTS 1 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2499/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", 🇫🇷 beIN SPORTS 2 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2500/index.m3u8
+#EXTINF:-1 tvg-id="NEWS_DIGITAL_Mono_EN.bein" group-title="beIN SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y8m9j21631279281.png", 🇶🇦 beIN SPORTS 1 FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6123/index.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.tr" group-title="beIN SPORTS" tvg-logo="https://i.imgur.com/mcrgaM7.png", TR: beIN SPORTS 3 HD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2501/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", 🇺🇦 Setanta Sports FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31755/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", 🇺🇦 Setanta Sports FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/15183/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", 🇺🇦 Setanta Sports FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/272/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/fLgsVsj.png", 🇺🇦 Setanta Sports FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/272/index.m3u8
+
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇺🇦 Setanta Sports 1 FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5069/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇺🇦 Setanta Sports 1 FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5069/index.m3u8
+
+#EXTINF:-1 tvg-id="Setanta.Sports.plus.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇺🇦 Setanta Sports + FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5068/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.plus.HD.ua" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇺🇦 Setanta Sports + FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5068/index.m3u8
+
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇱🇻 Setanta Sports 1 FHD 60fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/20065/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇱🇻 Setanta Sports 1 FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6541/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.1.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/myITkkx.png", 🇱🇻 Setanta Sports 1 FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/271/index.m3u8
 
 
-
+#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/ZGsNPOZ.png", 🇱🇻 Setanta Sports 2 FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/270/index.m3u8
+#EXTINF:-1 tvg-id="Setanta.Sports.2.HD.lv" group-title="Setanta Sports" tvg-logo="https://i.imgur.com/ZGsNPOZ.png", 🇱🇻 Setanta Sports 2 FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6542/index.m3u8
+#EXTINF:-1 tvg-id="TSN.3.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/X4erIdG.png", TSN 3 FHD 60fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6522/index.m3u8
+#EXTINF:-1 tvg-id="TSN.4.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/zGQkRKW.png", TSN 4 FHD 60fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6445/index.m3u8
+#EXTINF:-1 tvg-id="TSN.5.ca2" group-title="🇨🇦 TSN Sports" tvg-logo="https://i.imgur.com/3QnA16Y.png", TSN 5 FHD 60fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6517/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", RU: Eurosport 1 UHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19432/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", RU: Eurosport 2 UHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19431/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", 🇬🇧 Eurosport 1 FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/228/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.E.ch" group-title="Eurosport" tvg-logo="https://i.imgur.com/36EL7oi.png", 🇬🇧 Eurosport 1 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5075/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", 🇬🇧 Eurosport 2 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/5076/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", PT: Eurosport 2 FHD 25fps [en] (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/20066/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.HD.lv" group-title="Eurosport" tvg-logo="https://i.imgur.com/u7QrAyh.png", 🇬🇧 Eurosport 2 FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/234/index.m3u8
+#EXTINF:-1 group-title="Arena Sports" tvg-id="9271" tvg-logo="http://epg.one/img/9271.png" , 🇷🇸 Arena Premium 1 (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31599/index.m3u8
+#EXTINF:-1 group-title="Arena Sports" tvg-id="9272" tvg-logo="http://epg.one/img/9272.png" , 🇷🇸 Arena Premium 2 (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31600/index.m3u8
+#EXTINF:-1 group-title="Arena Sports" tvg-id="9273" tvg-logo="http://epg.one/img/9273.png"  , 🇷🇸 Arena Premium 3 (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31601/index.m3u8
+#EXTINF:-1 tvg-id="9274" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Arena Sports", 🇷🇸 Arena Sport 1 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31602/index.m3u8
+#EXTINF:-1 tvg-id="9275" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Arena Sports", 🇷🇸 Arena Sport 3 HD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31603/index.m3u8
+#EXTINF:-1 tvg-id="9277" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇷🇸 Arena Sport 4 HD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31605/index.m3u8
+#EXTINF:-1 tvg-id="9278" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇷🇸 Arena Sport 5 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31606/index.m3u8
+#EXTINF:-1 tvg-id="9279" tvg-logo="https://i.imgur.com/CUhgHWn.png" group-title="Arena Sports", 🇷🇸 Arena Sport 6 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31607/index.m3u8
+#EXTINF:-1 tvg-id="9280" tvg-logo="https://i.imgur.com/VQ2LO94.png" group-title="Arena Sports", 🇷🇸 Arena Sport 7 HD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31608/index.m3u8
+#EXTINF:-1 tvg-id="9281" tvg-logo="https://i.imgur.com/aWYqu4B.png" group-title="Arena Sports", 🇷🇸 Arena Sport 8 FHD 50fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31609/index.m3u8
+#EXTINF:-1 tvg-id="9282" tvg-logo="https://i.imgur.com/6kpMNLc.png" group-title="Arena Sports", 🇷🇸 Arena Sport 9 FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31610/index.m3u8
+#EXTINF:-1 tvg-id="Arena.Sport.1X2.HD.(RS).rs" tvg-logo="https://i.imgur.com/WUN5wzt.png" group-title="Arena Sports", 🇷🇸 Arena Sport 1x2 FHD 25fps (bk1)
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31611/index.m3u8
 
 
 
