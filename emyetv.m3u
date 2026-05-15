@@ -520,6 +520,68 @@ http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31610/index.m3u8
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/31611/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,beIN Sports
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3612.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Bein Sports 4
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/5313.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Bein Sports 5
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/5312.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Bein Sports 6
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/5311.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Bein Sports 7
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/5310.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Bein Sports 8
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/5309.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,ESPN
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3636.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,ESPN 2
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2581.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,FOX Sports Racing
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3053.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,FS1 (Fox Sports 1)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3645.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,FS2 (Fox Sports 2)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3646.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,FOX Soccer Plus
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2531.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Sky Sports Action (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2194.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Sky Sports Arena (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2193.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Sky Sports F1 (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2189.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Sky Sports Football (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/30822.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Sky Sports Golf (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2186.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Sky Sports Main Events (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2184.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Sky Sports MIX (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2180.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Sky Sports News (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2179.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Sky Sports Premier League (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2181.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Sky Sports Racing (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/527483.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Sky SYFY (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2167.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Sky Two (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2178.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,TNT Sports 1 (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2337.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,TNT Sports 2 (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2336.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,TNT Sports 3 (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2335.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,TNT Sports 4 (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/675021.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Premier Sports 1 (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89089.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="eMYeSport" ,Premier Sports 2 (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89090.ts
+
+
 
 ====LAIN2=====================================================================================================================================================================================================
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/4B5FvmX.png" group-title="LAIN2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel (1080p)
@@ -545,3 +607,42 @@ https://op-group1-swiftservehd-1.dens.tv/h/h70/wedotv_movie.m3u8
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3629.ts
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,Discovery Channel (West)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3826.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,Discovery Life
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3858.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,Discovery Science
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2595.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,History Channel
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/645913.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,Nat Geo Wild
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3666.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,Animal Planet (UK)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2365.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,Animal Planet (East)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3609.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,Animal Planet (West)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2661.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,HGTV (Home and Garden Television) (East)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3654.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,HGTV (Home and Garden Television) (West)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3836.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,HBO (East)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3655.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,HBO (West)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2490.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,HBO Comedy (East)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/648977.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,HBO Comedy (West)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/631876.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,HBO Drama
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/648981.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,HBO Hits (East)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3656.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,HBO Hits (West)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/553461.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,HBO Movies (East)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/51552.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,HBO Movies (West)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/631877.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,HDNET Movies
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89182.ts
+
