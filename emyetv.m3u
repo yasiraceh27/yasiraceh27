@@ -66,7 +66,8 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/rcti/manifest.mpd
 https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.m3u8
 
-
+#EXTINF:-1 group-title="eMYeSport" tvg-logo="https://i.imgur.com/0XUrW9Y.jpg", JTBC Sport
+http://211.110.63.98/jtbc3sports1/_definst_/32E28CFC070F873F25913C79D8AAADBEAD1397047A173437D49BA1D34AEB6731/chunklist_w525103698.m3u8
 
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="eMYeSport" ,Prima Sport 1 
 #KODIPROP:inputstream=inputstream.adaptive
