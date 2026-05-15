@@ -540,3 +540,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h70/wedotv_movie.m3u8
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,Discovery Channel (East)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3629.ts
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="LAIN2" ,Discovery Channel (West)
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3826.ts
